@@ -1,0 +1,2133 @@
+NEW_ENCOUNTER_ID,PROCEDURE_ID,PROCEDURE_DT_TM,PROCEDURE_DESCRIPTION
+228,4631,24-JUN-2010 00:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+422,3940,07-NOV-2010 00:00:00,Video and Radio-Telemetered Electroencephalographic Monitoring
+422,2549,07-NOV-2010 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+422,43,07-NOV-2010 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+363,4631,09-AUG-2008 00:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+363,2549,09-AUG-2008 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+363,141,09-AUG-2008 00:00:00,Insertion of Endotracheal Tube
+455,2548,01-JAN-1000 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+455,141,01-JAN-1000 00:00:00,Insertion of Endotracheal Tube
+455,43,01-JAN-1000 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+46,44,15-MAY-2000 00:00:00,Arteriography of Cerebral Arteries
+46,3006,15-MAY-2000 00:00:00,Clipping of Aneurysm
+46,4075,13-MAY-2000 00:00:00,Pulmonary Artery Wedge Monitoring
+381,2548,06-SEP-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+381,4852,06-SEP-2008 00:00:00,Infusion of Vasopressor Agent
+381,2610,06-SEP-2008 00:00:00,Transfusion of Packed Cells
+178,2548,10-FEB-2012 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+253,141,23-DEC-2009 00:00:00,Insertion of Endotracheal Tube
+253,2548,23-DEC-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+147,2548,27-JUL-2013 04:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+147,141,27-JUL-2013 04:00:00,Insertion of Endotracheal Tube
+401,44,09-JUL-2007 00:00:00,Arteriography of Cerebral Arteries
+401,43,11-JUL-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+401,3006,10-JUL-2007 00:00:00,Clipping of Aneurysm
+401,1556,08-JUL-2007 00:00:00,Insertion of Indwelling Urinary Catheter
+432,5097,21-OCT-2013 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+432,42,20-OCT-2013 00:00:00,Arterial Catheterization
+432,44,21-OCT-2013 00:00:00,Arteriography of Cerebral Arteries
+406,43,02-FEB-2008 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+406,2549,02-FEB-2008 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+406,620,02-FEB-2008 00:00:00,Ventricular Shunt to Extracranial Site Nec
+406,3006,04-FEB-2008 00:00:00,Clipping of Aneurysm
+406,44,02-FEB-2008 00:00:00,Arteriography of Cerebral Arteries
+406,43,06-FEB-2008 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+413,601,17-JUN-2007 00:00:00,Other Diagnostic Procedures on Brain and Cerebral Meninges
+413,141,17-JUN-2007 00:00:00,Insertion of Endotracheal Tube
+413,2548,17-JUN-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+413,2480,17-JUN-2007 00:00:00,Other Oxygen Enrichment
+413,2610,17-JUN-2007 00:00:00,Transfusion of Packed Cells
+413,3613,17-JUN-2007 00:00:00,Incision of Cerebral Meninges
+404,3006,03-OCT-2006 00:00:00,Clipping of Aneurysm
+404,4756,04-OCT-2006 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+404,44,03-OCT-2006 00:00:00,Arteriography of Cerebral Arteries
+180,337,10-JUL-2010 00:00:00,Ventriculostomy
+459,43,30-JUN-2014 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+459,42,30-JUN-2014 04:00:00,Arterial Catheterization
+459,2548,29-JUN-2014 04:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+392,337,06-OCT-2006 00:00:00,Ventriculostomy
+392,2548,06-OCT-2006 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+392,43,06-OCT-2006 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+392,42,06-OCT-2006 00:00:00,Arterial Catheterization
+415,44,15-DEC-2007 00:00:00,Arteriography of Cerebral Arteries
+415,2616,15-DEC-2007 00:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+415,4919,15-DEC-2007 00:00:00,Procedure on Four or More Vessels
+415,4866,15-DEC-2007 00:00:00,Percutaneous Angioplasty of Extracranial Vessel(s)
+415,4867,15-DEC-2007 00:00:00,Percutaneous Angioplasty of Intracranial Vessel(s)
+415,620,17-DEC-2007 00:00:00,Ventricular Shunt to Extracranial Site Nec
+467,141,02-AUG-2014 05:00:00,Insertion of Endotracheal Tube
+467,2156,02-AUG-2014 05:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+467,3627,02-AUG-2014 05:00:00,Elevation of Skull Fracture Fragments
+467,2548,02-AUG-2014 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+420,2549,20-JUN-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+420,604,23-JUN-2009 00:00:00,Other Craniectomy
+420,606,21-JUN-2009 00:00:00,Other Incision of Brain
+420,4990,23-JUN-2009 00:00:00,Intracranial Pressure Monitoring
+124,44,06-MAY-2005 00:00:00,Arteriography of Cerebral Arteries
+124,3006,06-MAY-2005 00:00:00,Clipping of Aneurysm
+35,4914,01-JAN-1000 00:00:00,Automatic Implantable Cardioverter/Defibrillator (Aicd) Check
+35,4920,06-APR-2009 00:00:00,Insertion of One Vascular Stent
+35,4868,06-APR-2009 00:00:00,Percutaneous Insertion of Carotid Artery Stent(s)
+35,2610,03-APR-2009 00:00:00,Transfusion of Packed Cells
+35,4866,06-APR-2009 00:00:00,Percutaneous Angioplasty of Extracranial Vessel(s)
+247,2549,26-JUL-2006 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+247,601,27-JUL-2006 00:00:00,Other Diagnostic Procedures on Brain and Cerebral Meninges
+247,3609,27-JUL-2006 00:00:00,Reopening of Craniotomy Site
+247,3613,26-JUL-2006 00:00:00,Incision of Cerebral Meninges
+99,4929,17-FEB-2013 05:00:00,"Hip Bearing Surface, Metal-On-Polyethylene"
+99,2729,17-FEB-2013 05:00:00,Partial Hip Replacement
+85,5097,05-APR-2012 04:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+85,44,04-APR-2012 04:00:00,Arteriography of Cerebral Arteries
+252,4756,25-JUN-2006 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+252,337,25-JUN-2006 00:00:00,Ventriculostomy
+252,3091,25-JUN-2006 00:00:00,Interruption of the Vena Cava
+252,141,25-JUN-2006 00:00:00,Insertion of Endotracheal Tube
+252,2548,25-JUN-2006 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+387,43,06-DEC-2006 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+387,2548,06-DEC-2006 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+387,2480,06-DEC-2006 00:00:00,Other Oxygen Enrichment
+154,310,28-AUG-2008 00:00:00,Transfusion of Other Serum
+154,3613,04-SEP-2008 00:00:00,Incision of Cerebral Meninges
+130,4756,16-FEB-2005 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+130,337,16-FEB-2005 00:00:00,Ventriculostomy
+130,2229,16-FEB-2005 00:00:00,Arteriography of Other Intrathoracic Vessels
+130,44,16-FEB-2005 00:00:00,Arteriography of Cerebral Arteries
+130,43,16-FEB-2005 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+276,5097,08-APR-2012 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+276,44,08-APR-2012 00:00:00,Arteriography of Cerebral Arteries
+299,2548,06-NOV-2013 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+299,4756,07-NOV-2013 06:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+299,3006,06-NOV-2013 06:00:00,Clipping of Aneurysm
+299,44,06-NOV-2013 06:00:00,Arteriography of Cerebral Arteries
+63,606,07-MAY-2007 00:00:00,Other Incision of Brain
+63,44,07-MAY-2007 00:00:00,Arteriography of Cerebral Arteries
+63,2548,07-MAY-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+63,43,08-MAY-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+63,4756,07-MAY-2007 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+63,141,07-MAY-2007 00:00:00,Insertion of Endotracheal Tube
+407,43,20-NOV-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+407,141,20-NOV-2007 00:00:00,Insertion of Endotracheal Tube
+407,4852,20-NOV-2007 00:00:00,Infusion of Vasopressor Agent
+407,4756,20-NOV-2007 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+407,2548,20-NOV-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+407,44,20-NOV-2007 00:00:00,Arteriography of Cerebral Arteries
+399,2548,01-MAY-2010 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+122,2232,10-JUN-2006 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+122,4852,10-JUN-2006 00:00:00,Infusion of Vasopressor Agent
+122,4756,10-JUN-2006 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+122,44,10-JUN-2006 00:00:00,Arteriography of Cerebral Arteries
+414,2145,15-DEC-2007 00:00:00,Other Incision of Skin and Subcutaneous Tissue
+414,44,15-DEC-2007 00:00:00,Arteriography of Cerebral Arteries
+414,4756,15-DEC-2007 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+250,43,23-APR-1974 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+250,2549,04-APR-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+250,141,04-APR-2007 00:00:00,Insertion of Endotracheal Tube
+325,4865,30-AUG-2013 00:00:00,Other Computer Assisted Surgery
+325,604,30-AUG-2013 04:00:00,Other Craniectomy
+325,141,30-AUG-2013 04:00:00,Insertion of Endotracheal Tube
+325,2549,30-AUG-2013 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+325,4865,30-AUG-2013 00:00:00,Other Computer Assisted Surgery
+325,4865,30-AUG-2013 00:00:00,Other Computer Assisted Surgery
+325,4865,30-AUG-2013 00:00:00,Other Computer Assisted Surgery
+325,3613,30-AUG-2013 04:00:00,Incision of Cerebral Meninges
+96,141,19-SEP-2006 00:00:00,Insertion of Endotracheal Tube
+96,290,28-SEP-2006 00:00:00,Temporary Tracheostomy
+96,44,19-SEP-2006 00:00:00,Arteriography of Cerebral Arteries
+96,2549,19-SEP-2006 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+96,1279,28-SEP-2006 00:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+96,148,26-SEP-2006 00:00:00,Laryngoscopy and Other Tracheoscopy
+202,42,12-JAN-2012 00:00:00,Arterial Catheterization
+202,43,13-JAN-2012 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+202,2548,12-JAN-2012 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+202,4990,12-JAN-2012 00:00:00,Intracranial Pressure Monitoring
+202,90,13-JAN-2012 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+289,2862,03-JUN-2011 00:00:00,Debridement of Open Fracture of Tibia and Fibula
+289,3237,03-JUN-2011 00:00:00,Open and Other Sigmoidectomy
+289,1327,03-JUN-2011 00:00:00,Other Partial Resection of Small Intestine
+289,3205,03-JUN-2011 00:00:00,Multiple Segmental Resection of Small Intestine
+44,611,09-FEB-2002 00:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+44,3006,09-FEB-2002 00:00:00,Clipping of Aneurysm
+44,44,09-FEB-2002 00:00:00,Arteriography of Cerebral Arteries
+369,42,25-NOV-2009 00:00:00,Arterial Catheterization
+369,600,18-NOV-2009 00:00:00,Open Biopsy of Brain
+369,141,25-NOV-2009 00:00:00,Insertion of Endotracheal Tube
+369,2548,25-NOV-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+369,284,12-NOV-2009 00:00:00,Spinal Tap
+369,43,16-NOV-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+42,43,18-DEC-2001 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+42,44,16-DEC-2001 00:00:00,Arteriography of Cerebral Arteries
+42,2549,16-DEC-2001 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+42,3006,17-DEC-2001 00:00:00,Clipping of Aneurysm
+209,141,29-MAR-2011 05:00:00,Insertion of Endotracheal Tube
+209,2548,29-MAR-2011 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+236,5097,11-JUN-2013 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+236,44,11-JUN-2013 00:00:00,Arteriography of Cerebral Arteries
+38,90,07-JUN-2000 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+38,2549,04-JUN-2000 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+137,3006,31-JAN-2001 00:00:00,Clipping of Aneurysm
+137,44,01-FEB-2001 00:00:00,Arteriography of Cerebral Arteries
+137,44,31-JAN-2001 00:00:00,Arteriography of Cerebral Arteries
+155,2233,28-AUG-2012 00:00:00,Arteriography of Other Specified Sites
+155,44,21-AUG-2012 00:00:00,Arteriography of Cerebral Arteries
+155,4709,28-AUG-2012 00:00:00,Other Endovascular Procedures on Other Vessels
+473,2869,10-SEP-2014 00:00:00,Internal Fixation of Femur without Fracture Reduction
+444,42,13-FEB-2014 05:00:00,Arterial Catheterization
+444,5108,13-FEB-2014 05:00:00,Central Venous Catheter Placement with Guidance
+444,2549,13-FEB-2014 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+368,2549,07-JUN-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+368,337,07-JUN-2009 00:00:00,Ventriculostomy
+217,606,02-DEC-2007 00:00:00,Other Incision of Brain
+217,337,02-DEC-2007 00:00:00,Ventriculostomy
+217,43,02-DEC-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+217,2549,02-DEC-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+139,44,17-JUN-2001 00:00:00,Arteriography of Cerebral Arteries
+139,3006,18-JUN-2001 00:00:00,Clipping of Aneurysm
+139,337,19-JUN-2001 00:00:00,Ventriculostomy
+139,44,20-JUN-2001 00:00:00,Arteriography of Cerebral Arteries
+139,43,19-JUN-2001 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+227,2549,22-JUL-2002 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+227,2156,17-JUL-2002 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+227,141,22-JUL-2002 00:00:00,Insertion of Endotracheal Tube
+227,43,24-JUL-2002 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+227,1535,23-JUL-2002 00:00:00,Percutaneous Cystostomy
+131,337,29-DEC-2007 00:00:00,Ventriculostomy
+131,2549,28-DEC-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+131,3006,29-DEC-2007 00:00:00,Clipping of Aneurysm
+131,337,28-DEC-2007 00:00:00,Ventriculostomy
+340,2548,29-JUN-2013 04:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+340,2156,29-JUN-2013 04:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+1,2156,20-FEB-2009 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+1,4990,21-FEB-2009 00:00:00,Intracranial Pressure Monitoring
+1,884,20-FEB-2009 00:00:00,Suture of Laceration of External Ear
+1,43,20-FEB-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+1,2549,20-FEB-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+312,42,24-MAR-2010 05:00:00,Arterial Catheterization
+312,2549,24-MAR-2010 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+312,43,24-MAR-2010 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+312,1087,24-MAR-2010 05:00:00,Insertion of Intercostal Catheter for Drainage
+312,3920,24-MAR-2010 05:00:00,Administration of Tetanus Toxoid
+492,43,03-SEP-2014 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+492,2549,20-AUG-2014 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+492,44,20-AUG-2014 05:00:00,Arteriography of Cerebral Arteries
+492,4756,20-AUG-2014 05:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+492,290,01-SEP-2014 05:00:00,Temporary Tracheostomy
+492,141,20-AUG-2014 05:00:00,Insertion of Endotracheal Tube
+492,2610,24-AUG-2014 05:00:00,Transfusion of Packed Cells
+492,1279,01-SEP-2014 05:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+486,2153,17-DEC-2014 07:00:00,"Nonexcisional Debridement of Wound, Infection or Burn"
+486,2150,17-DEC-2014 07:00:00,"Excisional Debridement of Wound, Infection, or Burn"
+486,1087,17-DEC-2014 07:00:00,Insertion of Intercostal Catheter for Drainage
+486,1198,17-DEC-2014 07:00:00,Other Surgical Occlusion of Upper Limb Vessels
+486,2610,17-DEC-2014 07:00:00,Transfusion of Packed Cells
+486,43,17-DEC-2014 07:00:00,"Venous Catheterization, Not Elsewhere Classified"
+285,42,09-FEB-2012 00:00:00,Arterial Catheterization
+285,2549,19-FEB-2012 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+285,31,08-FEB-2012 00:00:00,Biopsy of Bone Marrow
+285,2619,09-FEB-2012 00:00:00,Injection or Infusion of Cancer Chemotherapeutic Substance
+285,141,19-FEB-2012 00:00:00,Insertion of Endotracheal Tube
+287,43,25-NOV-2011 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+287,2549,24-NOV-2011 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+287,141,24-NOV-2011 00:00:00,Insertion of Endotracheal Tube
+287,1279,02-DEC-2011 00:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+287,290,02-DEC-2011 00:00:00,Temporary Tracheostomy
+319,640,12-APR-2012 05:00:00,Insertion of Catheter Into Spinal Canal for Infusion of Therapeutic or Palliative Substances
+319,2144,12-APR-2012 05:00:00,Insertion of Totally Implantable Vascular Access Device [vad]
+319,3306,12-APR-2012 05:00:00,Open Biopsy of Liver
+319,57,12-APR-2012 05:00:00,"Colostomy, Not Otherwise Specified"
+464,2548,25-AUG-2014 07:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+288,2232,22-FEB-2013 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+288,4756,22-FEB-2013 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+288,44,22-FEB-2013 00:00:00,Arteriography of Cerebral Arteries
+288,4989,22-FEB-2013 00:00:00,Intra-Operative Neurophysiologic Monitoring
+45,3006,04-MAR-2002 00:00:00,Clipping of Aneurysm
+45,44,04-MAR-2002 00:00:00,Arteriography of Cerebral Arteries
+283,2232,01-SEP-2011 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+283,337,01-SEP-2011 00:00:00,Ventriculostomy
+283,44,01-SEP-2011 00:00:00,Arteriography of Cerebral Arteries
+283,4756,01-SEP-2011 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+229,2548,07-JUL-2002 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+229,141,07-JUL-2002 00:00:00,Insertion of Endotracheal Tube
+305,2891,20-JUN-2013 05:00:00,"Closed Reduction of Fracture with Internal Fixation, Femur"
+305,884,18-JUN-2013 05:00:00,Suture of Laceration of External Ear
+305,2548,20-JUN-2013 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+305,1217,20-JUN-2013 05:00:00,Other Revision of Vascular Procedure
+357,4920,10-DEC-2009 00:00:00,Insertion of One Vascular Stent
+357,3980,10-DEC-2009 00:00:00,Angiocardiography of Left Heart Structures
+357,4924,10-DEC-2009 00:00:00,Percutaneous Transluminal Coronary Angioplasty [PTCA]
+357,4916,10-DEC-2009 00:00:00,Procedure on Single Vessel
+357,4755,10-DEC-2009 00:00:00,Insertion of Drug-Eluting Coronary Artery Stent(s)
+357,3028,10-DEC-2009 00:00:00,Left Heart Cardiac Catheterization
+162,3613,24-JUN-2010 00:00:00,Incision of Cerebral Meninges
+326,2548,24-MAR-2011 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+326,3980,24-MAR-2011 06:00:00,Angiocardiography of Left Heart Structures
+326,141,24-MAR-2011 06:00:00,Insertion of Endotracheal Tube
+326,3028,24-MAR-2011 06:00:00,Left Heart Cardiac Catheterization
+326,3983,24-MAR-2011 06:00:00,Coronary Arteriography Using Two Catheters
+494,43,12-DEC-2014 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+494,2610,12-DEC-2014 06:00:00,Transfusion of Packed Cells
+494,3613,12-DEC-2014 06:00:00,Incision of Cerebral Meninges
+494,2549,12-DEC-2014 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+207,4924,03-FEB-2011 00:00:00,Percutaneous Transluminal Coronary Angioplasty [PTCA]
+207,3983,03-FEB-2011 00:00:00,Coronary Arteriography Using Two Catheters
+207,4755,03-FEB-2011 00:00:00,Insertion of Drug-Eluting Coronary Artery Stent(s)
+220,1070,11-AUG-2014 00:00:00,Closed [endoscopic] Biopsy of Bronchus
+220,2549,13-AUG-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+220,141,13-AUG-2014 00:00:00,Insertion of Endotracheal Tube
+22,3900,03-MAY-2014 06:00:00,Systemic Arterial Pressure Monitoring
+22,44,04-MAY-2014 06:00:00,Arteriography of Cerebral Arteries
+205,611,05-MAR-2011 00:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+205,606,05-MAR-2011 00:00:00,Other Incision of Brain
+70,141,03-JAN-2009 00:00:00,Insertion of Endotracheal Tube
+70,2548,03-JAN-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+337,44,18-APR-2005 00:00:00,Arteriography of Cerebral Arteries
+337,3006,20-APR-2005 00:00:00,Clipping of Aneurysm
+335,337,08-NOV-2004 00:00:00,Ventriculostomy
+335,3627,08-NOV-2004 00:00:00,Elevation of Skull Fracture Fragments
+335,2548,08-NOV-2004 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+128,2523,17-MAR-2008 00:00:00,Insertion of Other (Naso-)gastric Tube
+128,4756,17-MAR-2008 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+128,44,17-MAR-2008 00:00:00,Arteriography of Cerebral Arteries
+196,4852,08-JUL-2013 00:00:00,Infusion of Vasopressor Agent
+196,4852,07-JUL-2013 00:00:00,Infusion of Vasopressor Agent
+196,4852,08-JUL-2013 00:00:00,Infusion of Vasopressor Agent
+196,4852,07-JUL-2013 00:00:00,Infusion of Vasopressor Agent
+224,2156,01-MAR-2014 06:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+224,4990,01-MAR-2014 06:00:00,Intracranial Pressure Monitoring
+224,2549,01-MAR-2014 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+454,141,03-JUN-2014 06:00:00,Insertion of Endotracheal Tube
+454,2549,03-JUN-2014 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+175,2610,29-OCT-2007 00:00:00,Transfusion of Packed Cells
+175,2548,29-OCT-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+156,2610,18-MAR-2007 00:00:00,Transfusion of Packed Cells
+156,1087,18-MAR-2007 00:00:00,Insertion of Intercostal Catheter for Drainage
+156,2549,18-MAR-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+156,1914,18-MAR-2007 00:00:00,"Closed Reduction of Fracture without Internal Fixation, Radius and Ulna"
+156,337,18-MAR-2007 00:00:00,Ventriculostomy
+317,2232,25-JUL-2012 05:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+317,356,25-JUL-2012 05:00:00,Transfusion of Platelets
+317,2610,25-JUL-2012 05:00:00,Transfusion of Packed Cells
+317,1408,25-JUL-2012 05:00:00,Closure of Laceration of Liver
+317,3850,25-JUL-2012 05:00:00,Suture of Laceration of Diaphragm
+317,43,25-JUL-2012 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+317,1087,25-JUL-2012 05:00:00,Insertion of Intercostal Catheter for Drainage
+317,4852,26-JUL-2012 05:00:00,Infusion of Vasopressor Agent
+317,1087,25-JUL-2012 05:00:00,Insertion of Intercostal Catheter for Drainage
+317,42,26-JUL-2012 05:00:00,Arterial Catheterization
+317,12,25-JUL-2012 05:00:00,Aortography
+317,4347,25-JUL-2012 05:00:00,Total Splenectomy
+317,4709,25-JUL-2012 05:00:00,Other Endovascular Procedures on Other Vessels
+317,310,25-JUL-2012 05:00:00,Transfusion of Other Serum
+317,42,25-JUL-2012 05:00:00,Arterial Catheterization
+317,2549,25-JUL-2012 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+317,3041,25-JUL-2012 05:00:00,Open Chest Cardiac Massage
+41,141,06-DEC-2001 00:00:00,Insertion of Endotracheal Tube
+41,42,06-DEC-2001 00:00:00,Arterial Catheterization
+41,337,06-DEC-2001 00:00:00,Ventriculostomy
+41,43,06-DEC-2001 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+208,3006,30-AUG-2010 00:00:00,Clipping of Aneurysm
+208,195,30-AUG-2010 00:00:00,Other Exploration and Decompression of Spinal Canal
+208,44,29-AUG-2010 00:00:00,Arteriography of Cerebral Arteries
+15,15373,13-JUN-2013 06:00:00,"Electroencephalogram (EEG) during nonintracranial surgery (eg, carotid surgery)"
+15,14084,13-JUN-2013 06:00:00,Compatibility test each unit; electronic
+15,12237,13-JUN-2013 06:00:00,"Computed tomography, head or brain; without contrast material"
+15,13413,13-JUN-2013 06:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+15,20333,13-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+15,3006,13-JUN-2013 06:00:00,Clipping of Aneurysm
+15,13845,13-JUN-2013 06:00:00,Prothrombin time;
+15,20014,13-JUN-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+15,20333,13-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+15,14302,13-JUN-2013 06:00:00,"Infectious agent detection by nucleic acid (DNA or RNA); Staphylococcus aureus, methicillin resistant, amplified probe technique"
+15,14084,13-JUN-2013 06:00:00,Compatibility test each unit; electronic
+15,13752,13-JUN-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+15,4990,13-JUN-2013 06:00:00,Intracranial Pressure Monitoring
+15,43,13-JUN-2013 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+15,14084,13-JUN-2013 06:00:00,Compatibility test each unit; electronic
+15,20333,13-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+15,20228,13-JUN-2013 06:00:00,"INJECTION, MIDAZOLAM HYDROCHLORIDE, PER 1 MG"
+15,20390,13-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+15,14993,13-JUN-2013 06:00:00,"Electrocardiogram, routine ECG with at least 12 leads; tracing only, without interpretation and report"
+15,20208,13-JUN-2013 06:00:00,"INJECTION, LEVETIRACETAM, 10 MG"
+15,20208,13-JUN-2013 06:00:00,"INJECTION, LEVETIRACETAM, 10 MG"
+15,14084,13-JUN-2013 06:00:00,Compatibility test each unit; electronic
+15,20014,13-JUN-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+15,13527,13-JUN-2013 06:00:00,Magnesium
+15,13527,13-JUN-2013 06:00:00,Magnesium
+15,13856,13-JUN-2013 06:00:00,"Thromboplastin time, partial (PTT); plasma or whole blood"
+15,13608,13-JUN-2013 06:00:00,Phosphorus inorganic (phosphate);
+15,13608,13-JUN-2013 06:00:00,Phosphorus inorganic (phosphate);
+15,12249,13-JUN-2013 06:00:00,"Computed tomographic angiography, head, with contrast material(s), including noncontrast images, if performed, and image postprocessing"
+15,13499,13-JUN-2013 06:00:00,Lactate (lactic acid)
+15,14071,13-JUN-2013 06:00:00,Blood typing; ABO
+15,96630,13-JUN-2013 06:00:00,"Continuous intraoperative neurophysiology monitoring in the operating room, one on one monitoring requiring personal attendance, each 15 minutes (List separately in addition to code for primary procedure)"
+15,12269,13-JUN-2013 06:00:00,"Radiologic examination, chest; single view, frontal"
+15,20333,13-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+15,14072,13-JUN-2013 06:00:00,Blood typing; Rh (D)
+15,22557,13-JUN-2013 06:00:00,"LOW OSMOLAR CONTRAST MATERIAL, 300-399 MG/ML IODINE CONCENTRATION, PER ML"
+15,606,13-JUN-2013 06:00:00,Other Incision of Brain
+15,13845,13-JUN-2013 06:00:00,Prothrombin time;
+15,13026,13-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+15,19931,13-JUN-2013 06:00:00,"INJECTION, ADENOSINE FOR THERAPEUTIC USE, 6 MG (NOT TO BE USED TO REPORT ANY ADENOSINE PHOSPHATE COMPOUNDS, INSTEAD USE A9270)"
+15,3900,13-JUN-2013 06:00:00,Systemic Arterial Pressure Monitoring
+15,13752,13-JUN-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+15,13752,13-JUN-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+15,20379,13-JUN-2013 06:00:00,"INJECTION, THIAMINE HCL, 100 MG"
+15,4989,13-JUN-2013 06:00:00,Intra-Operative Neurophysiologic Monitoring
+15,14063,13-JUN-2013 06:00:00,"Antibody screen, RBC, each serum technique"
+15,15357,13-JUN-2013 06:00:00,"Short-latency somatosensory evoked potential study, stimulation of any/all peripheral nerves or skin sites, recording from the central nervous system; in upper limbs"
+15,20282,13-JUN-2013 06:00:00,"INJECTION, DESMOPRESSIN ACETATE, PER 1 MCG"
+15,13856,13-JUN-2013 06:00:00,"Thromboplastin time, partial (PTT); plasma or whole blood"
+15,15357,13-JUN-2013 06:00:00,"Short-latency somatosensory evoked potential study, stimulation of any/all peripheral nerves or skin sites, recording from the central nervous system; in upper limbs"
+15,13039,13-JUN-2013 06:00:00,"Hepatic function panel This panel must include the following: Albumin (82040) Bilirubin, total (82247) Bilirubin, direct (82248) Phosphatase, alkaline (84075) Protein, total (84155) Transferase, alanine amino (ALT) (SGPT) (84460) Transferase, aspartate am"
+15,13026,13-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+164,2548,02-JUN-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+164,337,03-JUN-2009 00:00:00,Ventriculostomy
+164,141,02-JUN-2009 00:00:00,Insertion of Endotracheal Tube
+164,2610,03-JUN-2009 00:00:00,Transfusion of Packed Cells
+164,90,02-JUN-2009 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+164,3613,03-JUN-2009 00:00:00,Incision of Cerebral Meninges
+167,2548,14-JUN-2014 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+167,184,14-JUN-2014 00:00:00,Other Craniotomy
+167,141,14-JUN-2014 00:00:00,Insertion of Endotracheal Tube
+98,141,01-DEC-2008 00:00:00,Insertion of Endotracheal Tube
+138,44,30-MAR-2006 00:00:00,Arteriography of Cerebral Arteries
+138,4852,30-MAR-2006 00:00:00,Infusion of Vasopressor Agent
+138,337,30-MAR-2006 00:00:00,Ventriculostomy
+138,2232,30-MAR-2006 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+138,2229,30-MAR-2006 00:00:00,Arteriography of Other Intrathoracic Vessels
+138,4756,30-MAR-2006 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+311,2548,24-AUG-2013 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+16,20256,10-JUN-2013 06:00:00,"INJECTION, ONDANSETRON HYDROCHLORIDE, PER 1 MG"
+16,20191,12-JUN-2013 06:00:00,"INJECTION, INSULIN, PER 5 UNITS"
+16,16989,11-JUN-2013 06:00:00,GUIDE WIRE
+16,15256,14-JUN-2013 06:00:00,"Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)"
+16,20333,14-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,20333,12-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,13608,13-JUN-2013 06:00:00,Phosphorus inorganic (phosphate);
+16,5108,10-JUN-2013 06:00:00,Central Venous Catheter Placement with Guidance
+16,13663,13-JUN-2013 06:00:00,"Sodium; serum, plasma or whole blood"
+16,13752,13-JUN-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+16,20333,11-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,284,16-JUN-2013 06:00:00,Spinal Tap
+16,13527,14-JUN-2013 06:00:00,Magnesium
+16,12269,10-JUN-2013 06:00:00,"Radiologic examination, chest; single view, frontal"
+16,20256,14-JUN-2013 06:00:00,"INJECTION, ONDANSETRON HYDROCHLORIDE, PER 1 MG"
+16,20390,14-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,20161,14-JUN-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+16,22557,10-JUN-2013 06:00:00,"LOW OSMOLAR CONTRAST MATERIAL, 300-399 MG/ML IODINE CONCENTRATION, PER ML"
+16,20390,11-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,20390,11-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,20191,10-JUN-2013 06:00:00,"INJECTION, INSULIN, PER 5 UNITS"
+16,20390,11-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,14302,10-JUN-2013 06:00:00,"Infectious agent detection by nucleic acid (DNA or RNA); Staphylococcus aureus, methicillin resistant, amplified probe technique"
+16,16981,11-JUN-2013 06:00:00,"CLOSURE DEVICE, VASCULAR (IMPLANTABLE/INSERTABLE)"
+16,13026,14-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,13617,13-JUN-2013 06:00:00,"Potassium; serum, plasma or whole blood"
+16,13461,10-JUN-2013 06:00:00,Hemoglobin; glycosylated (A1C)
+16,14063,10-JUN-2013 06:00:00,"Antibody screen, RBC, each serum technique"
+16,96442,11-JUN-2013 06:00:00,"Selective catheter placement, internal carotid artery, unilateral, with angiography of the ipsilateral intracranial carotid circulation and all associated radiological supervision and interpretation, includes angiography of the extracranial carotid and ce"
+16,13039,10-JUN-2013 06:00:00,"Hepatic function panel This panel must include the following: Albumin (82040) Bilirubin, total (82247) Bilirubin, direct (82248) Phosphatase, alkaline (84075) Protein, total (84155) Transferase, alanine amino (ALT) (SGPT) (84460) Transferase, aspartate am"
+16,20161,14-JUN-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+16,20256,13-JUN-2013 06:00:00,"INJECTION, ONDANSETRON HYDROCHLORIDE, PER 1 MG"
+16,20390,12-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,20161,13-JUN-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+16,19964,14-JUN-2013 06:00:00,"INJECTION, HYDRALAZINE HCL, UP TO 20 MG"
+16,13026,10-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,20191,14-JUN-2013 06:00:00,"INJECTION, INSULIN, PER 5 UNITS"
+16,20390,10-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,20390,11-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,20191,12-JUN-2013 06:00:00,"INJECTION, INSULIN, PER 5 UNITS"
+16,20333,11-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,13845,10-JUN-2013 06:00:00,Prothrombin time;
+16,13527,11-JUN-2013 06:00:00,Magnesium
+16,44,11-JUN-2013 06:00:00,Arteriography of Cerebral Arteries
+16,13461,12-JUN-2013 06:00:00,Hemoglobin; glycosylated (A1C)
+16,20333,14-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,13527,10-JUN-2013 06:00:00,Magnesium
+16,13026,10-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,13752,11-JUN-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+16,20161,14-JUN-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+16,12638,11-JUN-2013 06:00:00,"3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image postprocessing under concurrent supervision; not requiring image postprocessing on an independent works"
+16,14072,10-JUN-2013 06:00:00,Blood typing; Rh (D)
+16,13608,10-JUN-2013 06:00:00,Phosphorus inorganic (phosphate);
+16,15256,13-JUN-2013 06:00:00,"Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)"
+16,20256,14-JUN-2013 06:00:00,"INJECTION, ONDANSETRON HYDROCHLORIDE, PER 1 MG"
+16,20191,13-JUN-2013 06:00:00,"INJECTION, INSULIN, PER 5 UNITS"
+16,13297,10-JUN-2013 06:00:00,Calcium; ionized
+16,20191,11-JUN-2013 06:00:00,"INJECTION, INSULIN, PER 5 UNITS"
+16,13752,12-JUN-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+16,96463,11-JUN-2013 06:00:00,"Selective catheter placement, vertebral artery, unilateral, with angiography of the ipsilateral vertebral circulation and all associated radiological supervision and interpretation, includes angiography of the cervicocerebral arch, when performed"
+16,20191,12-JUN-2013 06:00:00,"INJECTION, INSULIN, PER 5 UNITS"
+16,3900,10-JUN-2013 06:00:00,Systemic Arterial Pressure Monitoring
+16,14123,10-JUN-2013 06:00:00,"Culture, bacterial; quantitative colony count, urine"
+16,16989,11-JUN-2013 06:00:00,GUIDE WIRE
+16,20200,14-JUN-2013 06:00:00,"INJECTION, KETOROLAC TROMETHAMINE, PER 15 MG"
+16,13608,11-JUN-2013 06:00:00,Phosphorus inorganic (phosphate);
+16,126,10-JUN-2013 06:00:00,Hypothermia (Central) (Local)
+16,20389,10-JUN-2013 06:00:00,"INJECTION, MAGNESIUM SULFATE, PER 500 MG"
+16,13752,14-JUN-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+16,13733,10-JUN-2013 06:00:00,"Gonadotropin, chorionic (hCG); quantitative"
+16,3006,18-JUN-2013 06:00:00,Clipping of Aneurysm
+16,20390,11-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,13527,13-JUN-2013 06:00:00,Magnesium
+16,20390,13-JUN-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+16,20256,11-JUN-2013 06:00:00,"INJECTION, ONDANSETRON HYDROCHLORIDE, PER 1 MG"
+16,20256,13-JUN-2013 06:00:00,"INJECTION, ONDANSETRON HYDROCHLORIDE, PER 1 MG"
+16,13752,10-JUN-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+16,20256,12-JUN-2013 06:00:00,"INJECTION, ONDANSETRON HYDROCHLORIDE, PER 1 MG"
+16,13413,10-JUN-2013 06:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+16,13856,10-JUN-2013 06:00:00,"Thromboplastin time, partial (PTT); plasma or whole blood"
+16,4990,18-JUN-2013 06:00:00,Intracranial Pressure Monitoring
+16,13026,11-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,12249,10-JUN-2013 06:00:00,"Computed tomographic angiography, head, with contrast material(s), including noncontrast images, if performed, and image postprocessing"
+16,13026,12-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,20333,11-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,4991,18-JUN-2013 06:00:00,Intracranial Oxygen Monitoring
+16,20333,11-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,20333,14-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,13527,12-JUN-2013 06:00:00,Magnesium
+16,13608,14-JUN-2013 06:00:00,Phosphorus inorganic (phosphate);
+16,13026,11-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,13608,12-JUN-2013 06:00:00,Phosphorus inorganic (phosphate);
+16,20296,10-JUN-2013 06:00:00,"INJECTION, METOCLOPRAMIDE HCL, UP TO 10 MG"
+16,13617,14-JUN-2013 06:00:00,"Potassium; serum, plasma or whole blood"
+16,4989,18-JUN-2013 06:00:00,Intra-Operative Neurophysiologic Monitoring
+16,13108,10-JUN-2013 06:00:00,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy"
+16,13026,13-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,20161,14-JUN-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+16,13026,10-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,16989,11-JUN-2013 06:00:00,GUIDE WIRE
+16,20228,11-JUN-2013 06:00:00,"INJECTION, MIDAZOLAM HYDROCHLORIDE, PER 1 MG"
+16,20191,11-JUN-2013 06:00:00,"INJECTION, INSULIN, PER 5 UNITS"
+16,12638,11-JUN-2013 06:00:00,"3D rendering with interpretation and reporting of computed tomography, magnetic resonance imaging, ultrasound, or other tomographic modality with image postprocessing under concurrent supervision; not requiring image postprocessing on an independent works"
+16,20333,10-JUN-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+16,20161,13-JUN-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+16,13026,11-JUN-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+16,14071,10-JUN-2013 06:00:00,Blood typing; ABO
+430,4756,19-NOV-2013 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+430,44,19-NOV-2013 00:00:00,Arteriography of Cerebral Arteries
+86,337,10-NOV-2005 00:00:00,Ventriculostomy
+62,4990,28-JAN-2009 00:00:00,Intracranial Pressure Monitoring
+62,2156,27-JAN-2009 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+62,2549,27-JAN-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+118,4756,02-MAY-2009 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+118,2232,02-MAY-2009 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+118,141,02-MAY-2009 00:00:00,Insertion of Endotracheal Tube
+118,44,02-MAY-2009 00:00:00,Arteriography of Cerebral Arteries
+118,337,02-MAY-2009 00:00:00,Ventriculostomy
+118,2549,02-MAY-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+320,84,20-OCT-2010 00:00:00,Diagnostic Ultrasound of Heart
+320,44,19-OCT-2010 00:00:00,Arteriography of Cerebral Arteries
+245,44,12-FEB-2007 00:00:00,Arteriography of Cerebral Arteries
+245,284,12-FEB-2007 00:00:00,Spinal Tap
+245,3346,13-FEB-2007 00:00:00,"Partial Excision of Pituitary Gland, Transsphenoidal Approach"
+332,2549,29-MAY-2004 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+332,337,29-MAY-2004 00:00:00,Ventriculostomy
+332,3613,29-MAY-2004 00:00:00,Incision of Cerebral Meninges
+271,604,20-OCT-2011 00:00:00,Other Craniectomy
+271,4990,20-OCT-2011 00:00:00,Intracranial Pressure Monitoring
+271,4916,20-OCT-2011 00:00:00,Procedure on Single Vessel
+271,2548,20-OCT-2011 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+271,5097,20-OCT-2011 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+271,4868,20-OCT-2011 00:00:00,Percutaneous Insertion of Carotid Artery Stent(s)
+204,2548,14-DEC-2013 08:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+204,141,14-DEC-2013 08:00:00,Insertion of Endotracheal Tube
+204,606,14-DEC-2013 08:00:00,Other Incision of Brain
+204,3006,14-DEC-2013 08:00:00,Clipping of Aneurysm
+476,141,20-OCT-2014 06:00:00,Insertion of Endotracheal Tube
+476,2549,20-OCT-2014 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+290,3622,07-JAN-2014 00:00:00,Replacement of Ventricular Shunt
+290,4704,07-JAN-2014 00:00:00,Injection or Infusion of Thrombolytic Agent
+290,44,07-JAN-2014 00:00:00,Arteriography of Cerebral Arteries
+290,141,07-JAN-2014 00:00:00,Insertion of Endotracheal Tube
+290,2549,07-JAN-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+290,4973,07-JAN-2014 00:00:00,Endovascular Removal of Obstruction from Head and Neck Vessel(s)
+10,2548,18-JUL-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+10,44,18-JUL-2008 00:00:00,Arteriography of Cerebral Arteries
+10,620,18-JUL-2008 00:00:00,Ventricular Shunt to Extracranial Site Nec
+10,44,18-JUL-2008 00:00:00,Arteriography of Cerebral Arteries
+10,141,18-JUL-2008 00:00:00,Insertion of Endotracheal Tube
+10,4756,18-JUL-2008 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+9,2549,14-AUG-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+9,337,14-AUG-2007 00:00:00,Ventriculostomy
+9,4756,14-AUG-2007 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+9,2616,14-AUG-2007 00:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+395,2463,30-JUL-2009 00:00:00,"Other Immobilization, Pressure, and Attention to Wound"
+395,2549,30-JUL-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+395,337,30-JUL-2009 00:00:00,Ventriculostomy
+395,356,29-JUL-2009 00:00:00,Transfusion of Platelets
+395,2610,30-JUL-2009 00:00:00,Transfusion of Packed Cells
+395,606,30-JUL-2009 00:00:00,Other Incision of Brain
+436,3613,17-FEB-2014 07:00:00,Incision of Cerebral Meninges
+336,3006,22-APR-2003 00:00:00,Clipping of Aneurysm
+336,44,21-APR-2003 00:00:00,Arteriography of Cerebral Arteries
+336,2549,22-APR-2003 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+480,2150,27-SEP-2014 00:00:00,"Excisional Debridement of Wound, Infection, or Burn"
+480,1922,27-SEP-2014 00:00:00,Open Reduction of Fracture of Radius and Ulna without Internal Fixation
+480,2549,27-SEP-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+480,2776,27-SEP-2014 00:00:00,Open Reduction of Fracture of Radius and Ulna with Internal Fixation
+301,11286,18-JUL-2012 05:00:00,"Burr hole(s); for implanting ventricular catheter, reservoir, EEG electrode(s), pressure recording device, or other cerebral monitoring device (separate procedure)"
+301,4852,18-JUL-2012 05:00:00,Infusion of Vasopressor Agent
+301,310,18-JUL-2012 05:00:00,Transfusion of Other Serum
+301,2166,18-JUL-2012 05:00:00,Other Repair and Reconstruction of Skin and Subcutaneous Tissue
+301,2549,18-JUL-2012 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+301,141,18-JUL-2012 05:00:00,Insertion of Endotracheal Tube
+301,2463,18-JUL-2012 05:00:00,"Other Immobilization, Pressure, and Attention to Wound"
+301,9087,18-JUL-2012 05:00:00,Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older
+301,42,18-JUL-2012 05:00:00,Arterial Catheterization
+301,9118,18-JUL-2012 05:00:00,"Arterial catheterization or cannulation for sampling, monitoring or transfusion (separate procedure); percutaneous"
+301,43,18-JUL-2012 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+301,5998,18-JUL-2012 05:00:00,"Repair, complex, scalp, arms, and/or legs; 2.6 cm to 7.5 cm"
+110,44,24-APR-2006 00:00:00,Arteriography of Cerebral Arteries
+110,43,24-APR-2006 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+110,3006,24-APR-2006 00:00:00,Clipping of Aneurysm
+410,3050,23-JAN-2009 00:00:00,Open Heart Valvuloplasty of Mitral Valve without Replacement
+410,3053,23-JAN-2009 00:00:00,Open and Other Replacement of Aortic Valve with Tissue Graft
+410,3063,23-JAN-2009 00:00:00,(Aorto)coronary Bypass of Two Coronary Arteries
+410,99,23-JAN-2009 00:00:00,Extracorporeal Circulation Auxiliary to Open Heart Surgery
+419,43,15-AUG-2013 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+419,11390,01-JAN-1000 00:00:00,"Transcatheter permanent occlusion or embolization (eg, for tumor destruction, to achieve hemostasis, to occlude a vascular malformation), percutaneous, any method; central nervous system (intracranial, spinal cord)"
+478,4959,28-SEP-2014 00:00:00,Placement of Intracerebral Catheter(s) Via Burr Hole(s)
+478,2549,27-SEP-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+478,1186,27-SEP-2014 00:00:00,Other Excision of Intracranial Vessels
+284,4924,12-MAY-2013 00:00:00,Percutaneous Transluminal Coronary Angioplasty [PTCA]
+284,4916,12-MAY-2013 00:00:00,Procedure on Single Vessel
+284,4755,12-MAY-2013 00:00:00,Insertion of Drug-Eluting Coronary Artery Stent(s)
+284,4923,12-MAY-2013 00:00:00,Insertion of Four or More Vascular Stents
+75,5964,23-APR-2011 04:00:00,"Simple repair of superficial wounds of face, ears, eyelids, nose, lips and/or mucous membranes; 2.5 cm or less"
+75,9087,23-APR-2011 04:00:00,Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older
+75,2616,23-APR-2011 04:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+75,15436,23-APR-2011 04:00:00,"Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); each additional sequential intravenous push of a new substance/drug (List separately in addition to code for primary procedure)"
+75,2616,23-APR-2011 04:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+75,1087,23-APR-2011 04:00:00,Insertion of Intercostal Catheter for Drainage
+75,15426,23-APR-2011 04:00:00,"Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); initial, up to 1 hour"
+75,2614,23-APR-2011 04:00:00,Injection or Infusion of Electrolytes
+75,15436,23-APR-2011 04:00:00,"Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); each additional sequential intravenous push of a new substance/drug (List separately in addition to code for primary procedure)"
+75,1087,23-APR-2011 04:00:00,Insertion of Intercostal Catheter for Drainage
+75,2156,23-APR-2011 04:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+75,9045,23-APR-2011 04:00:00,"Transfusion, blood or blood components"
+75,356,23-APR-2011 04:00:00,Transfusion of Platelets
+75,8332,23-APR-2011 04:00:00,"Tube thoracostomy, includes connection to drainage system (eg, water seal), when performed, open (separate procedure)"
+75,2232,23-APR-2011 04:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+75,15671,23-APR-2011 04:00:00,"Critical care, evaluation and management of the critically ill or critically injured patient; first 30-74 minutes"
+75,8332,23-APR-2011 04:00:00,"Tube thoracostomy, includes connection to drainage system (eg, water seal), when performed, open (separate procedure)"
+75,2616,23-APR-2011 04:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+75,15436,23-APR-2011 04:00:00,"Therapeutic, prophylactic, or diagnostic injection (specify substance or drug); each additional sequential intravenous push of a new substance/drug (List separately in addition to code for primary procedure)"
+390,606,25-OCT-2008 00:00:00,Other Incision of Brain
+390,42,25-OCT-2008 00:00:00,Arterial Catheterization
+390,43,25-OCT-2008 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+390,2548,25-OCT-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+390,141,25-OCT-2008 00:00:00,Insertion of Endotracheal Tube
+390,3006,25-OCT-2008 00:00:00,Clipping of Aneurysm
+324,12649,18-NOV-2012 12:00:00,Unlisted diagnostic radiographic procedure
+324,2548,18-NOV-2012 12:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+324,141,18-NOV-2012 12:00:00,Insertion of Endotracheal Tube
+324,2548,18-NOV-2012 12:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+324,141,18-NOV-2012 12:00:00,Insertion of Endotracheal Tube
+324,5108,18-NOV-2012 12:00:00,Central Venous Catheter Placement with Guidance
+324,5108,18-NOV-2012 12:00:00,Central Venous Catheter Placement with Guidance
+324,8165,18-NOV-2012 12:00:00,"Intubation, endotracheal, emergency procedure"
+324,9096,18-NOV-2012 12:00:00,"Insertion of peripherally inserted central venous catheter (PICC), without subcutaneous port or pump; age 5 years or older"
+324,9096,18-NOV-2012 12:00:00,"Insertion of peripherally inserted central venous catheter (PICC), without subcutaneous port or pump; age 5 years or older"
+324,12649,18-NOV-2012 12:00:00,Unlisted diagnostic radiographic procedure
+324,15200,18-NOV-2012 12:00:00,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, initial day"
+324,8165,18-NOV-2012 12:00:00,"Intubation, endotracheal, emergency procedure"
+324,15200,18-NOV-2012 12:00:00,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, initial day"
+440,2745,28-JAN-2014 07:00:00,Debridement of Open Fracture of Humerus
+440,2153,28-JAN-2014 07:00:00,"Nonexcisional Debridement of Wound, Infection or Burn"
+440,3900,27-JAN-2014 07:00:00,Systemic Arterial Pressure Monitoring
+440,2548,27-JAN-2014 07:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+440,2706,28-JAN-2014 07:00:00,Open Reduction of Mandibular Fracture
+440,2156,28-JAN-2014 07:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+440,2610,27-JAN-2014 07:00:00,Transfusion of Packed Cells
+440,2891,28-JAN-2014 07:00:00,"Closed Reduction of Fracture with Internal Fixation, Femur"
+264,4901,28-AUG-2013 00:00:00,Fusion or Refusion of 2-3 Vertebrae
+264,2719,28-AUG-2013 00:00:00,"Dorsal and Dorsolumbar Fusion of the Posterior Column, Posterior Technique"
+264,4761,28-AUG-2013 00:00:00,Insertion of Interbody Spinal Fusion Device
+475,3627,23-OCT-2014 06:00:00,Elevation of Skull Fracture Fragments
+475,2963,23-OCT-2014 06:00:00,Frontal Sinusectomy
+475,2156,20-OCT-2014 06:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+103,4756,26-MAY-2009 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+103,2548,26-MAY-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+103,90,05-JUN-2009 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+103,44,26-MAY-2009 00:00:00,Arteriography of Cerebral Arteries
+103,43,05-JUN-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+103,2610,05-JUN-2009 00:00:00,Transfusion of Packed Cells
+367,43,01-NOV-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+367,337,01-NOV-2007 00:00:00,Ventriculostomy
+367,2548,01-NOV-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+333,337,23-MAR-2001 00:00:00,Ventriculostomy
+333,2549,23-MAR-2001 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+333,2156,23-MAR-2001 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+333,1087,23-MAR-2001 00:00:00,Insertion of Intercostal Catheter for Drainage
+333,4075,23-MAR-2001 00:00:00,Pulmonary Artery Wedge Monitoring
+101,2549,02-JUL-2008 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+424,10198,01-JAN-1000 00:00:00,Cholecystectomy;
+219,44,25-FEB-2010 00:00:00,Arteriography of Cerebral Arteries
+219,337,25-FEB-2010 00:00:00,Ventriculostomy
+219,2616,25-FEB-2010 00:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+483,2862,08-NOV-2014 00:00:00,Debridement of Open Fracture of Tibia and Fibula
+483,1868,08-NOV-2014 00:00:00,"Application of External Fixator Device, Other"
+334,2548,29-NOV-2005 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+386,2610,20-OCT-2008 00:00:00,Transfusion of Packed Cells
+386,4756,17-OCT-2008 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+386,44,17-OCT-2008 00:00:00,Arteriography of Cerebral Arteries
+322,2549,30-SEP-2004 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+322,141,30-SEP-2004 00:00:00,Insertion of Endotracheal Tube
+322,606,30-SEP-2004 00:00:00,Other Incision of Brain
+134,4867,24-DEC-2007 00:00:00,Percutaneous Angioplasty of Intracranial Vessel(s)
+134,44,14-DEC-2007 00:00:00,Arteriography of Cerebral Arteries
+134,4916,24-DEC-2007 00:00:00,Procedure on Single Vessel
+134,337,14-DEC-2007 00:00:00,Ventriculostomy
+134,4756,14-DEC-2007 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+355,9117,08-JAN-2014 07:00:00,"Arterial puncture, withdrawal of blood for diagnosis"
+355,14081,08-JAN-2014 07:00:00,Compatibility test each unit; immediate spin technique
+355,14133,08-JAN-2014 07:00:00,"Culture, tubercle or other acid-fast bacilli (eg, TB, AFB, mycobacteria) any source, with isolation and presumptive identification of isolates"
+355,20402,08-JAN-2014 07:00:00,"INFUSION, NORMAL SALINE SOLUTION, STERILE (500 ML=1 UNIT)"
+355,14106,08-JAN-2014 07:00:00,"Concentration (any type), for infectious agents"
+355,14993,08-JAN-2014 07:00:00,"Electrocardiogram, routine ECG with at least 12 leads; tracing only, without interpretation and report"
+355,20018,08-JAN-2014 07:00:00,"INJECTION, CEFTRIAXONE SODIUM, PER 250 MG"
+355,14169,08-JAN-2014 07:00:00,"Smear, primary source with interpretation; fluorescent and/or acid fast stain for bacteria, fungi, parasites, viruses or cell types"
+355,14160,08-JAN-2014 07:00:00,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution (minimum inhibitory concentration [MIC] or breakpoint), each multi-antimicrobial, per plate"
+355,15047,08-JAN-2014 07:00:00,"Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color flow Doppler echocardiography"
+355,14117,08-JAN-2014 07:00:00,"Culture, bacterial; aerobic isolate, additional methods required for definitive identification, each isolate"
+355,13260,08-JAN-2014 07:00:00,Amylase
+355,20205,08-JAN-2014 07:00:00,"INJECTION, FUROSEMIDE, UP TO 20 MG"
+355,20205,08-JAN-2014 07:00:00,"INJECTION, FUROSEMIDE, UP TO 20 MG"
+355,13856,08-JAN-2014 07:00:00,"Thromboplastin time, partial (PTT); plasma or whole blood"
+355,20402,08-JAN-2014 07:00:00,"INFUSION, NORMAL SALINE SOLUTION, STERILE (500 ML=1 UNIT)"
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,13039,08-JAN-2014 07:00:00,"Hepatic function panel This panel must include the following: Albumin (82040) Bilirubin, total (82247) Bilirubin, direct (82248) Phosphatase, alkaline (84075) Protein, total (84155) Transferase, alanine amino (ALT) (SGPT) (84460) Transferase, aspartate am"
+355,14180,08-JAN-2014 07:00:00,"Virus isolation; centrifuge enhanced (shell vial) technique, includes identification with immunofluorescence stain, each virus"
+355,13751,08-JAN-2014 07:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count) and automated differential WBC count"
+355,13026,08-JAN-2014 07:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+355,14071,08-JAN-2014 07:00:00,Blood typing; ABO
+355,13413,08-JAN-2014 07:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+355,13413,08-JAN-2014 07:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+355,13413,08-JAN-2014 07:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+355,14072,08-JAN-2014 07:00:00,Blood typing; Rh (D)
+355,20015,08-JAN-2014 07:00:00,"INJECTION, CEFEPIME HYDROCHLORIDE, 500 MG"
+355,14127,08-JAN-2014 07:00:00,"Culture, fungi (mold or yeast) isolation, with presumptive identification of isolates; other source (except blood)"
+355,13546,08-JAN-2014 07:00:00,Myoglobin
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,14107,08-JAN-2014 07:00:00,"Culture, bacterial; blood, aerobic, with isolation and presumptive identification of isolates (includes anaerobic culture, if appropriate)"
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,13461,08-JAN-2014 07:00:00,Hemoglobin; glycosylated (A1C)
+355,20321,08-JAN-2014 07:00:00,"INJECTION, METHYLPREDNISOLONE SODIUM SUCCINATE, UP TO 125 MG"
+355,20014,08-JAN-2014 07:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,14178,08-JAN-2014 07:00:00,"Virus isolation; tissue culture inoculation, observation, and presumptive identification by cytopathic effect"
+355,14063,08-JAN-2014 07:00:00,"Antibody screen, RBC, each serum technique"
+355,14127,08-JAN-2014 07:00:00,"Culture, fungi (mold or yeast) isolation, with presumptive identification of isolates; other source (except blood)"
+355,14123,08-JAN-2014 07:00:00,"Culture, bacterial; quantitative colony count, urine"
+355,13026,08-JAN-2014 07:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,14107,08-JAN-2014 07:00:00,"Culture, bacterial; blood, aerobic, with isolation and presumptive identification of isolates (includes anaerobic culture, if appropriate)"
+355,13704,08-JAN-2014 07:00:00,"Troponin, quantitative"
+355,15229,08-JAN-2014 07:00:00,"Pressurized or nonpressurized inhalation treatment for acute airway obstruction or for sputum induction for diagnostic purposes (eg, with an aerosol generator, nebulizer, metered dose inhaler or intermittent positive pressure breathing [IPPB] device)"
+355,9117,08-JAN-2014 07:00:00,"Arterial puncture, withdrawal of blood for diagnosis"
+355,14106,08-JAN-2014 07:00:00,"Concentration (any type), for infectious agents"
+355,13413,08-JAN-2014 07:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+355,14111,08-JAN-2014 07:00:00,"Culture, bacterial; any other source except urine, blood or stool, aerobic, with isolation and presumptive identification of isolates"
+355,14168,08-JAN-2014 07:00:00,"Smear, primary source with interpretation; Gram or Giemsa stain for bacteria, fungi, or cell types"
+355,14081,08-JAN-2014 07:00:00,Compatibility test each unit; immediate spin technique
+355,15229,08-JAN-2014 07:00:00,"Pressurized or nonpressurized inhalation treatment for acute airway obstruction or for sputum induction for diagnostic purposes (eg, with an aerosol generator, nebulizer, metered dose inhaler or intermittent positive pressure breathing [IPPB] device)"
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,13500,08-JAN-2014 07:00:00,"Lactate dehydrogenase (LD), (LDH);"
+355,14169,08-JAN-2014 07:00:00,"Smear, primary source with interpretation; fluorescent and/or acid fast stain for bacteria, fungi, parasites, viruses or cell types"
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,13845,08-JAN-2014 07:00:00,Prothrombin time;
+355,13514,08-JAN-2014 07:00:00,Lipase
+355,9117,08-JAN-2014 07:00:00,"Arterial puncture, withdrawal of blood for diagnosis"
+355,15229,08-JAN-2014 07:00:00,"Pressurized or nonpressurized inhalation treatment for acute airway obstruction or for sputum induction for diagnostic purposes (eg, with an aerosol generator, nebulizer, metered dose inhaler or intermittent positive pressure breathing [IPPB] device)"
+355,14117,08-JAN-2014 07:00:00,"Culture, bacterial; aerobic isolate, additional methods required for definitive identification, each isolate"
+355,13026,08-JAN-2014 07:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+355,22184,08-JAN-2014 07:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+355,13527,08-JAN-2014 07:00:00,Magnesium
+355,20390,08-JAN-2014 07:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+355,19957,08-JAN-2014 07:00:00,"INJECTION, AMPICILLIN SODIUM, 500 MG"
+355,13751,08-JAN-2014 07:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count) and automated differential WBC count"
+355,9117,08-JAN-2014 07:00:00,"Arterial puncture, withdrawal of blood for diagnosis"
+355,13608,08-JAN-2014 07:00:00,Phosphorus inorganic (phosphate);
+355,14168,08-JAN-2014 07:00:00,"Smear, primary source with interpretation; Gram or Giemsa stain for bacteria, fungi, or cell types"
+355,14111,08-JAN-2014 07:00:00,"Culture, bacterial; any other source except urine, blood or stool, aerobic, with isolation and presumptive identification of isolates"
+355,13813,08-JAN-2014 07:00:00,Fibrinogen; activity
+355,13108,08-JAN-2014 07:00:00,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy"
+355,22184,08-JAN-2014 07:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+355,13349,08-JAN-2014 07:00:00,"Creatine kinase (CK), (CPK); MB fraction only"
+355,14133,08-JAN-2014 07:00:00,"Culture, tubercle or other acid-fast bacilli (eg, TB, AFB, mycobacteria) any source, with isolation and presumptive identification of isolates"
+355,9041,08-JAN-2014 07:00:00,Collection of venous blood by venipuncture
+355,13435,08-JAN-2014 07:00:00,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use"
+355,13499,08-JAN-2014 07:00:00,Lactate (lactic acid)
+355,12269,08-JAN-2014 07:00:00,"Radiologic examination, chest; single view, frontal"
+304,3006,24-MAR-2012 05:00:00,Clipping of Aneurysm
+304,43,23-MAR-2012 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+304,44,23-MAR-2012 05:00:00,Arteriography of Cerebral Arteries
+304,44,25-MAR-2012 05:00:00,Arteriography of Cerebral Arteries
+304,3613,24-MAR-2012 05:00:00,Incision of Cerebral Meninges
+304,290,03-APR-2012 05:00:00,Temporary Tracheostomy
+304,11276,23-MAR-2012 05:00:00,"Twist drill hole(s) for subdural, intracerebral, or ventricular puncture; for implanting ventricular catheter, pressure recording device, or other intracerebral monitoring device"
+304,606,24-MAR-2012 05:00:00,Other Incision of Brain
+304,2549,23-MAR-2012 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+304,9087,23-MAR-2012 05:00:00,Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older
+304,1279,03-APR-2012 05:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+150,2233,15-MAR-2013 04:00:00,Arteriography of Other Specified Sites
+150,640,15-MAR-2013 04:00:00,Insertion of Catheter Into Spinal Canal for Infusion of Therapeutic or Palliative Substances
+150,2610,18-MAR-2013 04:00:00,Transfusion of Packed Cells
+150,3006,15-MAR-2013 04:00:00,Clipping of Aneurysm
+150,195,15-MAR-2013 04:00:00,Other Exploration and Decompression of Spinal Canal
+323,4631,29-JUL-2012 00:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+323,141,29-JUL-2012 00:00:00,Insertion of Endotracheal Tube
+323,141,29-JUL-2012 05:00:00,Insertion of Endotracheal Tube
+323,310,29-JUL-2012 00:00:00,Transfusion of Other Serum
+323,43,29-JUL-2012 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+323,4852,29-JUL-2012 00:00:00,Infusion of Vasopressor Agent
+323,4631,29-JUL-2012 05:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+323,43,29-JUL-2012 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+323,2548,29-JUL-2012 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+323,310,29-JUL-2012 05:00:00,Transfusion of Other Serum
+323,4852,29-JUL-2012 05:00:00,Infusion of Vasopressor Agent
+270,44,28-APR-2012 00:00:00,Arteriography of Cerebral Arteries
+270,5097,28-APR-2012 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+270,2548,27-APR-2012 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+231,3627,24-OCT-2007 00:00:00,Elevation of Skull Fracture Fragments
+231,141,24-OCT-2007 00:00:00,Insertion of Endotracheal Tube
+231,2156,24-OCT-2007 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+231,611,24-OCT-2007 00:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+231,2156,24-OCT-2007 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+307,1087,15-JUN-2013 05:00:00,Insertion of Intercostal Catheter for Drainage
+307,2610,22-JUN-2013 05:00:00,Transfusion of Packed Cells
+307,42,20-JUN-2013 05:00:00,Arterial Catheterization
+307,1095,21-JUN-2013 05:00:00,Decortication of Lung
+307,2156,15-JUN-2013 05:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+307,1087,21-JUN-2013 05:00:00,Insertion of Intercostal Catheter for Drainage
+307,42,16-JUN-2013 05:00:00,Arterial Catheterization
+307,2548,15-JUN-2013 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+307,43,16-JUN-2013 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+307,141,15-JUN-2013 05:00:00,Insertion of Endotracheal Tube
+307,1064,21-JUN-2013 05:00:00,Other Local Excision or Destruction of Lesion or Tissue of Lung
+232,184,27-JAN-2006 00:00:00,Other Craniotomy
+493,2549,10-NOV-2014 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+493,141,10-NOV-2014 06:00:00,Insertion of Endotracheal Tube
+112,3006,20-FEB-2008 00:00:00,Clipping of Aneurysm
+112,337,20-FEB-2008 00:00:00,Ventriculostomy
+112,44,20-FEB-2008 00:00:00,Arteriography of Cerebral Arteries
+158,611,05-MAY-2007 00:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+158,337,06-MAY-2007 00:00:00,Ventriculostomy
+158,3613,05-MAY-2007 00:00:00,Incision of Cerebral Meninges
+73,44,20-SEP-2007 00:00:00,Arteriography of Cerebral Arteries
+73,4756,19-SEP-2007 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+73,44,17-SEP-2007 00:00:00,Arteriography of Cerebral Arteries
+291,44,03-OCT-2011 00:00:00,Arteriography of Cerebral Arteries
+291,5098,03-OCT-2011 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bioactive Coils
+201,4756,10-OCT-2011 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+201,44,10-OCT-2011 00:00:00,Arteriography of Cerebral Arteries
+201,3006,10-OCT-2011 00:00:00,Clipping of Aneurysm
+90,181,01-JAN-1000 00:00:00,Other Contrast Radiogram of Brain and Skull
+90,5108,01-JAN-1000 00:00:00,Central Venous Catheter Placement with Guidance
+90,3613,01-JAN-1000 00:00:00,Incision of Cerebral Meninges
+90,5108,01-JAN-1000 00:00:00,Central Venous Catheter Placement with Guidance
+90,284,01-JAN-1000 00:00:00,Spinal Tap
+90,1087,01-JAN-1000 00:00:00,Insertion of Intercostal Catheter for Drainage
+90,2681,01-JAN-1000 00:00:00,Revision of Amputation Stump
+90,2156,01-JAN-1000 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+90,1087,01-JAN-1000 00:00:00,Insertion of Intercostal Catheter for Drainage
+90,1087,01-JAN-1000 00:00:00,Insertion of Intercostal Catheter for Drainage
+90,90,01-JAN-1000 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+90,2235,01-JAN-1000 00:00:00,Angiocardiography of Venae Cavae
+90,1279,01-JAN-1000 00:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+90,3627,01-JAN-1000 00:00:00,Elevation of Skull Fracture Fragments
+90,2153,01-JAN-1000 00:00:00,"Nonexcisional Debridement of Wound, Infection or Burn"
+90,2156,01-JAN-1000 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+90,2610,01-JAN-1000 00:00:00,Transfusion of Packed Cells
+90,5005,01-JAN-1000 00:00:00,Thoracoscopic Drainage of Pleural Cavity
+90,3091,01-JAN-1000 00:00:00,Interruption of the Vena Cava
+90,2549,01-JAN-1000 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+90,2547,01-JAN-1000 00:00:00,Continuous Invasive Mechanical Ventilation of Unspecified Duration
+157,356,26-DEC-2014 05:00:00,Transfusion of Platelets
+157,4990,26-DEC-2014 05:00:00,Intracranial Pressure Monitoring
+157,2610,26-DEC-2014 05:00:00,Transfusion of Packed Cells
+157,5108,26-DEC-2014 05:00:00,Central Venous Catheter Placement with Guidance
+157,141,26-DEC-2014 05:00:00,Insertion of Endotracheal Tube
+157,310,26-DEC-2014 05:00:00,Transfusion of Other Serum
+157,90,26-DEC-2014 05:00:00,Enteral Infusion of Concentrated Nutritional Substances
+157,2548,26-DEC-2014 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+153,4756,16-DEC-2009 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+64,43,27-DEC-2005 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+64,1196,26-DEC-2005 00:00:00,Other Surgical Occlusion of Intracranial Vessels
+60,4347,22-OCT-2009 00:00:00,Total Splenectomy
+60,43,22-OCT-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+60,42,22-OCT-2009 00:00:00,Arterial Catheterization
+60,201,22-OCT-2009 00:00:00,Other Incision of Pleura
+60,2548,22-OCT-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+216,84,28-SEP-2010 00:00:00,Diagnostic Ultrasound of Heart
+216,141,28-SEP-2010 00:00:00,Insertion of Endotracheal Tube
+216,43,28-SEP-2010 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+74,2548,29-JUL-2006 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+74,43,31-JUL-2006 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+74,141,29-JUL-2006 00:00:00,Insertion of Endotracheal Tube
+74,44,07-AUG-2006 00:00:00,Arteriography of Cerebral Arteries
+74,3006,07-AUG-2006 00:00:00,Clipping of Aneurysm
+74,44,30-JUL-2006 00:00:00,Arteriography of Cerebral Arteries
+294,42,02-OCT-2013 00:00:00,Arterial Catheterization
+348,2548,20-OCT-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+348,119,20-OCT-2007 00:00:00,Hemodialysis
+348,42,18-OCT-2007 00:00:00,Arterial Catheterization
+348,141,18-OCT-2007 00:00:00,Insertion of Endotracheal Tube
+141,43,13-OCT-2012 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+141,2610,13-OCT-2012 00:00:00,Transfusion of Packed Cells
+141,3906,13-OCT-2012 00:00:00,Central Venous Pressure Monitoring
+141,4852,13-OCT-2012 00:00:00,Infusion of Vasopressor Agent
+141,90,13-OCT-2012 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+160,2231,05-AUG-2014 04:00:00,Arteriography of Other Intra-Abdominal Arteries
+160,191,30-JUL-2014 04:00:00,Other Endoscopy of Small Intestine
+160,2549,25-JUL-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+160,2479,29-JUL-2014 04:00:00,Non-Invasive Mechanical Ventilation
+160,4919,05-AUG-2014 04:00:00,Procedure on Four or More Vessels
+160,2549,25-JUL-2014 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+160,5108,30-JUL-2014 04:00:00,Central Venous Catheter Placement with Guidance
+160,42,05-AUG-2014 04:00:00,Arterial Catheterization
+160,3940,30-JUL-2014 04:00:00,Video and Radio-Telemetered Electroencephalographic Monitoring
+160,2231,25-JUL-2014 04:00:00,Arteriography of Other Intra-Abdominal Arteries
+160,3940,05-AUG-2014 04:00:00,Video and Radio-Telemetered Electroencephalographic Monitoring
+160,5097,25-JUL-2014 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+160,5097,25-JUL-2014 04:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+160,4867,05-AUG-2014 04:00:00,Percutaneous Angioplasty of Intracranial Vessel(s)
+160,4866,05-AUG-2014 04:00:00,Percutaneous Angioplasty of Extracranial Vessel(s)
+160,2616,05-AUG-2014 04:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+160,141,25-JUL-2014 04:00:00,Insertion of Endotracheal Tube
+160,44,05-AUG-2014 04:00:00,Arteriography of Cerebral Arteries
+160,44,25-JUL-2014 04:00:00,Arteriography of Cerebral Arteries
+341,4990,02-MAY-2013 04:00:00,Intracranial Pressure Monitoring
+341,2548,02-MAY-2013 04:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+341,141,02-MAY-2013 04:00:00,Insertion of Endotracheal Tube
+341,43,03-MAY-2013 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+159,43,02-MAY-2008 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+159,141,05-MAY-2008 00:00:00,Insertion of Endotracheal Tube
+159,2548,05-MAY-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+159,141,02-MAY-2008 00:00:00,Insertion of Endotracheal Tube
+159,2548,02-MAY-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+159,2610,02-MAY-2008 00:00:00,Transfusion of Packed Cells
+133,2549,09-MAY-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+133,337,09-MAY-2007 00:00:00,Ventriculostomy
+133,141,09-MAY-2007 00:00:00,Insertion of Endotracheal Tube
+133,2610,09-MAY-2007 00:00:00,Transfusion of Packed Cells
+133,4756,09-MAY-2007 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+238,3613,06-SEP-2007 00:00:00,Incision of Cerebral Meninges
+238,141,06-SEP-2007 00:00:00,Insertion of Endotracheal Tube
+238,2549,06-SEP-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+238,3091,05-SEP-2007 00:00:00,Interruption of the Vena Cava
+293,614,14-DEC-2014 00:00:00,Other Repair of Cerebral Meninges
+293,2549,14-DEC-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+293,1279,06-JAN-2015 00:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+293,290,30-DEC-2014 00:00:00,Temporary Tracheostomy
+293,3613,14-DEC-2014 00:00:00,Incision of Cerebral Meninges
+293,141,14-DEC-2014 00:00:00,Insertion of Endotracheal Tube
+263,2729,08-DEC-2014 00:00:00,Partial Hip Replacement
+411,141,21-JUN-2007 00:00:00,Insertion of Endotracheal Tube
+411,2616,21-JUN-2007 00:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+411,337,22-JUN-2007 00:00:00,Ventriculostomy
+411,2548,21-JUN-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+411,44,21-JUN-2007 00:00:00,Arteriography of Cerebral Arteries
+411,356,22-JUN-2007 00:00:00,Transfusion of Platelets
+382,4756,15-NOV-2006 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+382,4485,15-NOV-2006 00:00:00,Angioplasty of Other Non-Coronary Vessel(s)
+449,2231,08-JUL-2014 00:00:00,Arteriography of Other Intra-Abdominal Arteries
+449,44,08-JUL-2014 00:00:00,Arteriography of Cerebral Arteries
+449,4756,08-JUL-2014 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+211,337,27-NOV-2009 00:00:00,Ventriculostomy
+211,141,27-NOV-2009 00:00:00,Insertion of Endotracheal Tube
+211,2548,27-NOV-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+211,43,29-NOV-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+203,604,30-NOV-2011 00:00:00,Other Craniectomy
+203,2549,29-NOV-2011 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+203,620,29-NOV-2011 00:00:00,Ventricular Shunt to Extracranial Site Nec
+309,3932,29-JUL-2012 05:00:00,Transfusion of Coagulation Factors
+309,3006,29-JUL-2012 05:00:00,Clipping of Aneurysm
+309,44,30-JUL-2012 05:00:00,Arteriography of Cerebral Arteries
+309,44,29-JUL-2012 05:00:00,Arteriography of Cerebral Arteries
+309,253,30-JUL-2012 05:00:00,Parenteral Infusion of Concentrated Nutritional Substances
+402,4721,28-MAR-2013 04:00:00,Percutaneous [endoscopic] Gastrojejunostomy
+402,2549,10-MAR-2013 21:49:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+402,42,19-MAR-2013 04:00:00,Arterial Catheterization
+402,42,18-MAR-2013 04:00:00,Arterial Catheterization
+402,290,29-MAR-2013 04:00:00,Temporary Tracheostomy
+402,90,11-MAR-2013 05:00:00,Enteral Infusion of Concentrated Nutritional Substances
+402,44,19-MAR-2013 04:00:00,Arteriography of Cerebral Arteries
+402,43,22-MAR-2013 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+402,84,19-MAR-2013 04:00:00,Diagnostic Ultrasound of Heart
+402,4075,20-MAR-2013 04:00:00,Pulmonary Artery Wedge Monitoring
+402,3006,11-MAR-2013 18:07:00,Clipping of Aneurysm
+402,4075,15-MAR-2013 05:00:00,Pulmonary Artery Wedge Monitoring
+402,44,18-MAR-2013 04:00:00,Arteriography of Cerebral Arteries
+402,3613,11-MAR-2013 18:07:00,Incision of Cerebral Meninges
+84,43,01-JAN-1000 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+84,2156,01-JAN-1000 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+84,141,01-JAN-1000 00:00:00,Insertion of Endotracheal Tube
+84,4990,01-JAN-1000 00:00:00,Intracranial Pressure Monitoring
+84,2548,01-JAN-1000 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+59,1866,30-JUL-2005 00:00:00,"Application of External Fixator Device, Tibia and Fibula"
+59,1864,30-JUL-2005 00:00:00,"Application of External Fixator Device, Femur"
+59,1925,30-JUL-2005 00:00:00,Open Reduction of Fracture of Femur without Internal Fixation
+59,2846,30-JUL-2005 00:00:00,Debridement of Open Fracture of Femur
+59,2862,30-JUL-2005 00:00:00,Debridement of Open Fracture of Tibia and Fibula
+59,1926,30-JUL-2005 00:00:00,Open Reduction of Fracture of Tibia and Fibula without Internal Fixation
+106,234,27-MAY-2008 00:00:00,Open and Other Replacement of Mitral Valve
+106,3029,23-MAY-2008 00:00:00,Combined Right and Left Heart Cardiac Catheterization
+106,3980,23-MAY-2008 00:00:00,Angiocardiography of Left Heart Structures
+106,3982,23-MAY-2008 00:00:00,Coronary Arteriography Using a Single Catheter
+106,99,27-MAY-2008 00:00:00,Extracorporeal Circulation Auxiliary to Open Heart Surgery
+191,2711,20-OCT-2013 00:00:00,Bone Graft to Facial Bone
+191,652,20-OCT-2013 00:00:00,Suture of Cranial and Peripheral Nerves
+191,1797,20-OCT-2013 00:00:00,Other Open Reduction of Facial Fracture
+191,4571,20-OCT-2013 00:00:00,Other Fetal Monitoring
+191,2704,20-OCT-2013 00:00:00,Open Reduction of Malar and Zygomatic Fracture
+191,2699,20-OCT-2013 00:00:00,Insertion of Synthetic Implant in Facial Bone
+65,2548,09-DEC-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+65,141,09-DEC-2007 00:00:00,Insertion of Endotracheal Tube
+409,3920,08-APR-2009 00:00:00,Administration of Tetanus Toxoid
+409,1930,08-APR-2009 00:00:00,"Open Reduction of Fracture of Other Specified Bone, Except Facial Bones, with Internal Fixation"
+409,3919,08-APR-2009 00:00:00,Administration of Diphtheria Toxoid
+108,337,11-MAY-2003 00:00:00,Ventriculostomy
+108,3006,11-MAY-2003 00:00:00,Clipping of Aneurysm
+469,3900,11-SEP-2014 06:00:00,Systemic Arterial Pressure Monitoring
+469,356,11-SEP-2014 06:00:00,Transfusion of Platelets
+469,2548,11-SEP-2014 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+469,606,11-SEP-2014 06:00:00,Other Incision of Brain
+379,42,13-SEP-2006 00:00:00,Arterial Catheterization
+379,44,14-SEP-2006 00:00:00,Arteriography of Cerebral Arteries
+379,44,14-SEP-2006 00:00:00,Arteriography of Cerebral Arteries
+379,4756,14-SEP-2006 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+339,2523,21-APR-2012 04:00:00,Insertion of Other (Naso-)gastric Tube
+339,2549,21-APR-2012 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+339,4990,21-APR-2012 04:00:00,Intracranial Pressure Monitoring
+339,354,26-APR-2012 04:00:00,Electroencephalogram
+339,42,23-APR-2012 04:00:00,Arterial Catheterization
+339,90,21-APR-2012 04:00:00,Enteral Infusion of Concentrated Nutritional Substances
+339,141,21-APR-2012 04:00:00,Insertion of Endotracheal Tube
+246,44,12-JAN-2011 00:00:00,Arteriography of Cerebral Arteries
+246,43,12-JAN-2011 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+246,2548,11-JAN-2011 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+246,141,11-JAN-2011 00:00:00,Insertion of Endotracheal Tube
+246,901,01-JAN-1000 00:00:00,Removal of Tympanostomy Tube
+425,71,23-SEP-2013 06:00:00,Suture of Laceration of Bladder
+425,2610,21-SEP-2013 06:00:00,Transfusion of Packed Cells
+425,352,21-SEP-2013 06:00:00,Exploratory Laparotomy
+425,43,21-SEP-2013 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+425,2616,22-SEP-2013 06:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+425,310,21-SEP-2013 06:00:00,Transfusion of Other Serum
+425,2231,22-SEP-2013 06:00:00,Arteriography of Other Intra-Abdominal Arteries
+425,3900,22-SEP-2013 06:00:00,Systemic Arterial Pressure Monitoring
+425,3850,23-SEP-2013 06:00:00,Suture of Laceration of Diaphragm
+425,2549,21-SEP-2013 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+425,1087,21-SEP-2013 06:00:00,Insertion of Intercostal Catheter for Drainage
+425,141,21-SEP-2013 06:00:00,Insertion of Endotracheal Tube
+425,1408,23-SEP-2013 06:00:00,Closure of Laceration of Liver
+425,3091,22-SEP-2013 06:00:00,Interruption of the Vena Cava
+438,8530,01-JAN-1000 00:00:00,"Replacement, aortic valve, with cardiopulmonary bypass; with prosthetic valve other than homograft or stentless valve"
+438,5108,27-DEC-2013 05:00:00,Central Venous Catheter Placement with Guidance
+438,42,27-DEC-2013 05:00:00,Arterial Catheterization
+36,2549,04-JAN-2015 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+36,3613,04-JAN-2015 05:00:00,Incision of Cerebral Meninges
+36,141,04-JAN-2015 05:00:00,Insertion of Endotracheal Tube
+36,15667,04-JAN-2015 09:42:00,"Emergency department visit for the evaluation and management of a patient, which requires these 3 key components within the constraints imposed by the urgency of the patient's clinical condition and/or mental status: A comprehensive history; A comprehensi"
+36,310,04-JAN-2015 05:00:00,Transfusion of Other Serum
+358,3006,12-MAR-2010 00:00:00,Clipping of Aneurysm
+358,3940,13-MAR-2010 00:00:00,Video and Radio-Telemetered Electroencephalographic Monitoring
+358,44,12-MAR-2010 00:00:00,Arteriography of Cerebral Arteries
+389,606,20-JAN-2010 00:00:00,Other Incision of Brain
+389,43,19-JAN-2010 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+389,4756,18-JAN-2010 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+389,2549,17-JAN-2010 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+259,141,07-MAY-2012 00:00:00,Insertion of Endotracheal Tube
+259,2548,07-MAY-2012 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+239,337,10-MAY-2006 00:00:00,Ventriculostomy
+239,2616,10-MAY-2006 00:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+303,606,27-NOV-2010 06:00:00,Other Incision of Brain
+303,337,27-NOV-2010 06:00:00,Ventriculostomy
+265,2549,29-JUL-2011 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+265,5097,29-JUL-2011 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+265,337,29-JUL-2011 00:00:00,Ventriculostomy
+489,4917,22-JAN-2015 05:00:00,Procedure on Two Vessels
+489,44,22-JAN-2015 05:00:00,Arteriography of Cerebral Arteries
+489,4705,22-JAN-2015 05:00:00,Injection or Infusion of Platelet Inhibitor
+489,4973,22-JAN-2015 05:00:00,Endovascular Removal of Obstruction from Head and Neck Vessel(s)
+280,3006,21-NOV-2011 00:00:00,Clipping of Aneurysm
+280,43,19-NOV-2011 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+280,44,21-NOV-2011 00:00:00,Arteriography of Cerebral Arteries
+163,2549,06-APR-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+163,5005,08-APR-2014 00:00:00,Thoracoscopic Drainage of Pleural Cavity
+126,2549,28-APR-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+126,90,29-APR-2014 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+126,141,28-APR-2014 00:00:00,Insertion of Endotracheal Tube
+126,4852,29-APR-2014 00:00:00,Infusion of Vasopressor Agent
+126,1070,28-APR-2014 00:00:00,Closed [endoscopic] Biopsy of Bronchus
+126,5108,30-APR-2014 00:00:00,Central Venous Catheter Placement with Guidance
+466,44,04-JUL-2014 00:00:00,Arteriography of Cerebral Arteries
+412,42,08-SEP-2007 00:00:00,Arterial Catheterization
+412,43,08-SEP-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+412,141,08-SEP-2007 00:00:00,Insertion of Endotracheal Tube
+412,4852,08-SEP-2007 00:00:00,Infusion of Vasopressor Agent
+412,2548,08-SEP-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+412,620,08-SEP-2007 00:00:00,Ventricular Shunt to Extracranial Site Nec
+187,2548,31-JUL-2011 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+173,184,11-SEP-2009 00:00:00,Other Craniotomy
+17,15256,04-AUG-2013 06:00:00,"Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)"
+17,13745,05-AUG-2013 06:00:00,Blood count; hematocrit (Hct)
+17,13499,03-AUG-2013 06:00:00,Lactate (lactic acid)
+17,12269,05-AUG-2013 06:00:00,"Radiologic examination, chest; single view, frontal"
+17,13608,04-AUG-2013 06:00:00,Phosphorus inorganic (phosphate);
+17,12269,05-AUG-2013 06:00:00,"Radiologic examination, chest; single view, frontal"
+17,22557,02-AUG-2013 06:00:00,"LOW OSMOLAR CONTRAST MATERIAL, 300-399 MG/ML IODINE CONCENTRATION, PER ML"
+17,13845,02-AUG-2013 06:00:00,Prothrombin time;
+17,13044,02-AUG-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+17,13608,05-AUG-2013 06:00:00,Phosphorus inorganic (phosphate);
+17,20161,05-AUG-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+17,12250,02-AUG-2013 06:00:00,"Computed tomographic angiography, neck, with contrast material(s), including noncontrast images, if performed, and image postprocessing"
+17,12261,03-AUG-2013 06:00:00,"Magnetic resonance (eg, proton) imaging, brain (including brain stem); without contrast material"
+17,2549,02-AUG-2013 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+17,20333,05-AUG-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+17,1279,13-AUG-2013 06:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+17,290,13-AUG-2013 06:00:00,Temporary Tracheostomy
+17,13698,03-AUG-2013 06:00:00,Triglycerides
+17,13856,02-AUG-2013 06:00:00,"Thromboplastin time, partial (PTT); plasma or whole blood"
+17,20148,02-AUG-2013 06:00:00,"INJECTION, GARAMYCIN, GENTAMICIN, UP TO 80 MG"
+17,20333,03-AUG-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+17,20379,02-AUG-2013 06:00:00,"INJECTION, THIAMINE HCL, 100 MG"
+17,12269,04-AUG-2013 06:00:00,"Radiologic examination, chest; single view, frontal"
+17,13044,02-AUG-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+17,13413,04-AUG-2013 06:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+17,13413,03-AUG-2013 06:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+17,20333,02-AUG-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+17,13745,03-AUG-2013 06:00:00,Blood count; hematocrit (Hct)
+17,13108,02-AUG-2013 06:00:00,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy"
+17,13413,03-AUG-2013 06:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+17,4761,08-AUG-2013 06:00:00,Insertion of Interbody Spinal Fusion Device
+17,13260,02-AUG-2013 06:00:00,Amylase
+17,20390,03-AUG-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+17,20014,03-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,20161,04-AUG-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+17,13752,02-AUG-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+17,13044,02-AUG-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+17,20333,03-AUG-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+17,14168,05-AUG-2013 06:00:00,"Smear, primary source with interpretation; Gram or Giemsa stain for bacteria, fungi, or cell types"
+17,15256,02-AUG-2013 06:00:00,"Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)"
+17,12260,03-AUG-2013 06:00:00,"Magnetic resonance angiography, neck; without contrast material(s), followed by contrast material(s) and further sequences"
+17,20161,04-AUG-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+17,13108,05-AUG-2013 06:00:00,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy"
+17,14111,05-AUG-2013 06:00:00,"Culture, bacterial; any other source except urine, blood or stool, aerobic, with isolation and presumptive identification of isolates"
+17,191,13-AUG-2013 06:00:00,Other Endoscopy of Small Intestine
+17,13026,05-AUG-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+17,43,05-AUG-2013 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+17,22557,02-AUG-2013 06:00:00,"LOW OSMOLAR CONTRAST MATERIAL, 300-399 MG/ML IODINE CONCENTRATION, PER ML"
+17,13527,04-AUG-2013 06:00:00,Magnesium
+17,13347,03-AUG-2013 06:00:00,"Creatine kinase (CK), (CPK); total"
+17,13845,03-AUG-2013 06:00:00,Prothrombin time;
+17,13044,02-AUG-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+17,13044,02-AUG-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+17,141,02-AUG-2013 06:00:00,Insertion of Endotracheal Tube
+17,13745,03-AUG-2013 06:00:00,Blood count; hematocrit (Hct)
+17,12269,02-AUG-2013 06:00:00,"Radiologic examination, chest; single view, frontal"
+17,20333,03-AUG-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+17,42,02-AUG-2013 06:00:00,Arterial Catheterization
+17,12269,02-AUG-2013 06:00:00,"Radiologic examination, chest; single view, frontal"
+17,20014,05-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,13499,04-AUG-2013 06:00:00,Lactate (lactic acid)
+17,20014,05-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,13044,02-AUG-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+17,12237,02-AUG-2013 06:00:00,"Computed tomography, head or brain; without contrast material"
+17,20014,05-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,13617,03-AUG-2013 06:00:00,"Potassium; serum, plasma or whole blood"
+17,13752,05-AUG-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+17,13234,02-AUG-2013 06:00:00,Alcohol (ethanol); any specimen except breath
+17,2717,08-AUG-2013 06:00:00,Atlas-Axis Spinal Fusion
+17,13527,05-AUG-2013 06:00:00,Magnesium
+17,20014,03-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,13527,03-AUG-2013 06:00:00,Magnesium
+17,20014,04-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,13108,05-AUG-2013 06:00:00,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy"
+17,12415,05-AUG-2013 06:00:00,"Radiologic examination, abdomen; single anteroposterior view"
+17,13297,03-AUG-2013 06:00:00,Calcium; ionized
+17,20014,03-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,13044,02-AUG-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+17,12321,03-AUG-2013 06:00:00,"Magnetic resonance (eg, proton) imaging, spinal canal and contents, cervical; without contrast material"
+17,13413,05-AUG-2013 06:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+17,20228,02-AUG-2013 06:00:00,"INJECTION, MIDAZOLAM HYDROCHLORIDE, PER 1 MG"
+17,20014,04-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,20014,04-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,12299,03-AUG-2013 06:00:00,"Radiologic examination, spine, cervical; 3 views or less"
+17,12312,02-AUG-2013 06:00:00,"Computed tomography, cervical spine; without contrast material"
+17,13752,03-AUG-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+17,13413,03-AUG-2013 06:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+17,13608,03-AUG-2013 06:00:00,Phosphorus inorganic (phosphate);
+17,12290,02-AUG-2013 06:00:00,"Computed tomography, thorax; with contrast material(s)"
+17,13856,03-AUG-2013 06:00:00,"Thromboplastin time, partial (PTT); plasma or whole blood"
+17,19973,02-AUG-2013 06:00:00,"Injection, atropine sulfate, 0.01 mg"
+17,13026,03-AUG-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+17,13608,05-AUG-2013 06:00:00,Phosphorus inorganic (phosphate);
+17,13752,04-AUG-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+17,15256,03-AUG-2013 06:00:00,"Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)"
+17,13026,04-AUG-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+17,13026,02-AUG-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+17,20014,04-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,12425,02-AUG-2013 06:00:00,"Computed tomography, abdomen and pelvis; with contrast material(s)"
+17,13499,03-AUG-2013 06:00:00,Lactate (lactic acid)
+17,20333,04-AUG-2013 06:00:00,"Injection, fentanyl citrate, 0.1 mg"
+17,20161,05-AUG-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+17,20161,05-AUG-2013 06:00:00,"INJECTION, HEPARIN SODIUM, PER 1000 UNITS"
+17,20216,02-AUG-2013 06:00:00,"INJECTION, LIDOCAINE HCL FOR INTRAVENOUS INFUSION, 10 MG"
+17,4901,08-AUG-2013 06:00:00,Fusion or Refusion of 2-3 Vertebrae
+17,20014,04-AUG-2013 06:00:00,"INJECTION, CEFAZOLIN SODIUM, 500 MG"
+17,14302,02-AUG-2013 06:00:00,"Infectious agent detection by nucleic acid (DNA or RNA); Staphylococcus aureus, methicillin resistant, amplified probe technique"
+17,20390,03-AUG-2013 06:00:00,"INJECTION, POTASSIUM CHLORIDE, PER 2 MEQ"
+451,4973,10-MAY-2014 00:00:00,Endovascular Removal of Obstruction from Head and Neck Vessel(s)
+451,44,10-MAY-2014 00:00:00,Arteriography of Cerebral Arteries
+451,2232,10-MAY-2014 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+451,4916,10-MAY-2014 00:00:00,Procedure on Single Vessel
+453,2156,03-JUN-2014 06:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+453,2153,03-JUN-2014 06:00:00,"Nonexcisional Debridement of Wound, Infection or Burn"
+453,3900,06-JUN-2014 06:00:00,Systemic Arterial Pressure Monitoring
+453,141,06-JUN-2014 06:00:00,Insertion of Endotracheal Tube
+453,2946,03-JUN-2014 06:00:00,Suture of Laceration of Nose
+453,2954,03-JUN-2014 06:00:00,Closed Reduction of Nasal Fracture
+453,884,03-JUN-2014 06:00:00,Suture of Laceration of External Ear
+453,2153,03-JUN-2014 06:00:00,"Nonexcisional Debridement of Wound, Infection or Burn"
+453,4440,03-JUN-2014 06:00:00,"Repair of Laceration Involving Lid Margin, Full-Thickness"
+453,2549,06-JUN-2014 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+453,43,03-JUN-2014 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+453,2954,04-JUN-2014 06:00:00,Closed Reduction of Nasal Fracture
+391,4990,21-DEC-2007 00:00:00,Intracranial Pressure Monitoring
+391,2862,21-DEC-2007 00:00:00,Debridement of Open Fracture of Tibia and Fibula
+391,1864,21-DEC-2007 00:00:00,"Application of External Fixator Device, Femur"
+391,2846,21-DEC-2007 00:00:00,Debridement of Open Fracture of Femur
+391,1866,21-DEC-2007 00:00:00,"Application of External Fixator Device, Tibia and Fibula"
+142,44,03-AUG-2002 00:00:00,Arteriography of Cerebral Arteries
+142,2610,03-AUG-2002 00:00:00,Transfusion of Packed Cells
+142,4485,03-AUG-2002 00:00:00,Angioplasty of Other Non-Coronary Vessel(s)
+149,1537,14-AUG-2012 04:00:00,Other Cystotomy
+149,1586,14-AUG-2012 04:00:00,Replacement of Cystostomy Tube
+149,2610,14-AUG-2012 04:00:00,Transfusion of Packed Cells
+149,4631,14-AUG-2012 04:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+149,2523,13-AUG-2012 04:00:00,Insertion of Other (Naso-)gastric Tube
+149,1327,14-AUG-2012 04:00:00,Other Partial Resection of Small Intestine
+149,141,14-AUG-2012 04:00:00,Insertion of Endotracheal Tube
+149,2549,14-AUG-2012 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+149,43,14-AUG-2012 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+149,253,14-AUG-2012 04:00:00,Parenteral Infusion of Concentrated Nutritional Substances
+149,4075,14-AUG-2012 04:00:00,Pulmonary Artery Wedge Monitoring
+149,4525,14-AUG-2012 04:00:00,Other Lysis of Peritoneal Adhesions
+149,1554,14-AUG-2012 04:00:00,Other Repair of Bladder
+282,4990,16-MAY-2011 00:00:00,Intracranial Pressure Monitoring
+282,2549,16-MAY-2011 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+282,184,16-MAY-2011 00:00:00,Other Craniotomy
+282,141,16-MAY-2011 00:00:00,Insertion of Endotracheal Tube
+445,2548,24-MAR-2013 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+445,43,29-MAR-2013 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+445,141,29-MAR-2013 05:00:00,Insertion of Endotracheal Tube
+445,4631,29-MAR-2013 05:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+445,44,24-MAR-2013 05:00:00,Arteriography of Cerebral Arteries
+445,2548,29-MAR-2013 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+445,4756,24-MAR-2013 05:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+445,141,24-MAR-2013 05:00:00,Insertion of Endotracheal Tube
+465,2818,15-AUG-2014 00:00:00,Open Reduction of Fracture of Carpals and Metacarpals with Internal Fixation
+465,1087,14-AUG-2014 00:00:00,Insertion of Intercostal Catheter for Drainage
+465,2793,14-AUG-2014 00:00:00,Fasciotomy of Hand
+465,43,14-AUG-2014 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+377,43,20-MAR-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+346,606,19-MAR-2010 00:00:00,Other Incision of Brain
+346,2463,19-MAR-2010 00:00:00,"Other Immobilization, Pressure, and Attention to Wound"
+346,2549,19-MAR-2010 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+53,3613,21-OCT-2005 00:00:00,Incision of Cerebral Meninges
+53,3006,22-OCT-2005 00:00:00,Clipping of Aneurysm
+53,44,21-OCT-2005 00:00:00,Arteriography of Cerebral Arteries
+82,141,29-APR-2008 00:00:00,Insertion of Endotracheal Tube
+82,2548,29-APR-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+82,43,02-MAY-2008 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+321,2548,02-NOV-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+278,2549,15-DEC-2011 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+278,43,15-DEC-2011 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+32,44,15-NOV-2013 07:00:00,Arteriography of Cerebral Arteries
+32,284,16-NOV-2013 07:00:00,Spinal Tap
+32,3900,15-NOV-2013 07:00:00,Systemic Arterial Pressure Monitoring
+32,2616,22-NOV-2013 07:00:00,Injection or Infusion of Other Therapeutic or Prophylactic Substance
+32,5098,15-NOV-2013 07:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bioactive Coils
+32,44,22-NOV-2013 07:00:00,Arteriography of Cerebral Arteries
+32,44,20-NOV-2013 07:00:00,Arteriography of Cerebral Arteries
+218,5097,24-MAY-2014 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+385,2549,14-NOV-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+385,43,15-NOV-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+385,1087,14-NOV-2007 00:00:00,Insertion of Intercostal Catheter for Drainage
+385,2156,14-NOV-2007 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+385,4990,14-NOV-2007 00:00:00,Intracranial Pressure Monitoring
+121,3006,01-NOV-2005 00:00:00,Clipping of Aneurysm
+121,2549,01-NOV-2005 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+121,2232,01-NOV-2005 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+121,44,01-NOV-2005 00:00:00,Arteriography of Cerebral Arteries
+121,337,01-NOV-2005 00:00:00,Ventriculostomy
+423,2548,24-NOV-2003 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+423,3972,24-NOV-2003 00:00:00,Computerized Axial Tomography of Thorax
+423,2523,25-NOV-2003 00:00:00,Insertion of Other (Naso-)gastric Tube
+423,4655,24-NOV-2003 00:00:00,Computerized Axial Tomography of Head
+423,1087,24-NOV-2003 00:00:00,Insertion of Intercostal Catheter for Drainage
+423,141,24-NOV-2003 00:00:00,Insertion of Endotracheal Tube
+347,2846,24-SEP-2011 04:00:00,Debridement of Open Fracture of Femur
+347,4074,24-SEP-2011 04:00:00,Application of Splint
+347,2235,24-SEP-2011 04:00:00,Angiocardiography of Venae Cavae
+347,2549,24-SEP-2011 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+347,4990,24-SEP-2011 04:00:00,Intracranial Pressure Monitoring
+347,2869,24-SEP-2011 04:00:00,Internal Fixation of Femur without Fracture Reduction
+347,2872,24-SEP-2011 04:00:00,Open Reduction of Fracture of Femur with Internal Fixation
+347,3091,24-SEP-2011 04:00:00,Interruption of the Vena Cava
+398,4756,27-FEB-2009 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+398,2548,27-FEB-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+398,2549,03-MAR-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+398,620,27-FEB-2009 00:00:00,Ventricular Shunt to Extracranial Site Nec
+210,44,18-DEC-2010 06:00:00,Arteriography of Cerebral Arteries
+210,4756,19-DEC-2010 06:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+210,337,20-DEC-2010 06:00:00,Ventriculostomy
+210,44,19-DEC-2010 06:00:00,Arteriography of Cerebral Arteries
+5,5097,05-APR-2012 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+5,43,06-APR-2012 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+91,43,15-NOV-2011 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+91,141,15-NOV-2011 04:00:00,Insertion of Endotracheal Tube
+91,2549,15-NOV-2011 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+91,4990,19-NOV-2011 04:00:00,Intracranial Pressure Monitoring
+315,42,11-AUG-2012 05:00:00,Arterial Catheterization
+315,290,14-AUG-2012 05:00:00,Temporary Tracheostomy
+315,1070,14-AUG-2012 05:00:00,Closed [endoscopic] Biopsy of Bronchus
+315,141,11-AUG-2012 05:00:00,Insertion of Endotracheal Tube
+315,1279,14-AUG-2012 05:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+315,2549,11-AUG-2012 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+6,4973,26-DEC-2010 06:00:00,Endovascular Removal of Obstruction from Head and Neck Vessel(s)
+6,1279,31-DEC-2010 06:00:00,Percutaneous [endoscopic] Gastrostomy [peg]
+6,44,26-DEC-2010 06:00:00,Arteriography of Cerebral Arteries
+6,2549,27-DEC-2010 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+6,4916,26-DEC-2010 06:00:00,Procedure on Single Vessel
+6,141,27-DEC-2010 06:00:00,Insertion of Endotracheal Tube
+6,290,03-JAN-2011 06:00:00,Temporary Tracheostomy
+343,3627,05-JUN-2013 04:00:00,Elevation of Skull Fracture Fragments
+343,611,05-JUN-2013 04:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+343,612,05-JUN-2013 04:00:00,Formation of Cranial Bone Flap
+343,2704,05-JUN-2013 04:00:00,Open Reduction of Malar and Zygomatic Fracture
+343,3632,05-JUN-2013 04:00:00,Bone Graft to Skull
+343,1797,05-JUN-2013 04:00:00,Other Open Reduction of Facial Fracture
+343,4990,05-JUN-2013 04:00:00,Intracranial Pressure Monitoring
+343,2548,05-JUN-2013 04:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+343,741,05-JUN-2013 04:00:00,Linear Repair of Laceration of Eyelid or Eyebrow
+343,3620,05-JUN-2013 04:00:00,Insertion of Skull Plate
+416,141,18-JUL-2010 00:00:00,Insertion of Endotracheal Tube
+416,2548,18-JUL-2010 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+371,4852,14-DEC-2007 00:00:00,Infusion of Vasopressor Agent
+371,613,10-DEC-2007 00:00:00,Other Cranial Osteoplasty
+371,620,10-DEC-2007 00:00:00,Ventricular Shunt to Extracranial Site Nec
+371,44,08-DEC-2007 00:00:00,Arteriography of Cerebral Arteries
+371,44,10-DEC-2007 00:00:00,Arteriography of Cerebral Arteries
+371,3006,10-DEC-2007 00:00:00,Clipping of Aneurysm
+69,141,17-JUL-2011 04:00:00,Insertion of Endotracheal Tube
+69,43,17-JUL-2011 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+69,2548,17-JUL-2011 04:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+88,132,05-OCT-2008 00:00:00,"Ileostomy, Not Otherwise Specified"
+88,57,05-OCT-2008 00:00:00,"Colostomy, Not Otherwise Specified"
+88,4756,22-SEP-2008 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+88,2549,03-OCT-2008 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+88,3233,05-OCT-2008 00:00:00,Open and Other Right Hemicolectomy
+194,606,07-DEC-2011 00:00:00,Other Incision of Brain
+194,141,10-DEC-2011 00:00:00,Insertion of Endotracheal Tube
+248,4867,24-JUN-2009 00:00:00,Percutaneous Angioplasty of Intracranial Vessel(s)
+248,4870,24-JUN-2009 00:00:00,Percutaneous Insertion of Intracranial Vascular Stent(s)
+248,4920,24-JUN-2009 00:00:00,Insertion of One Vascular Stent
+248,44,24-JUN-2009 00:00:00,Arteriography of Cerebral Arteries
+206,1838,18-SEP-2012 00:00:00,"Local Excision of Lesion or Tissue of Other Bone, Except Facial Bones"
+206,2150,11-SEP-2012 00:00:00,"Excisional Debridement of Wound, Infection, or Burn"
+206,3102,18-SEP-2012 00:00:00,Heterograft to Skin
+354,2548,22-JAN-2013 07:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+354,141,22-JAN-2013 07:00:00,Insertion of Endotracheal Tube
+172,44,15-AUG-2008 00:00:00,Arteriography of Cerebral Arteries
+172,195,08-AUG-2008 00:00:00,Other Exploration and Decompression of Spinal Canal
+172,3006,08-AUG-2008 00:00:00,Clipping of Aneurysm
+435,42,09-MAR-2014 07:00:00,Arterial Catheterization
+435,2548,09-MAR-2014 07:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+435,2610,09-MAR-2014 07:00:00,Transfusion of Packed Cells
+435,141,09-MAR-2014 07:00:00,Insertion of Endotracheal Tube
+435,3164,09-MAR-2014 07:00:00,Pharyngoscopy
+435,3940,09-MAR-2014 07:00:00,Video and Radio-Telemetered Electroencephalographic Monitoring
+435,4631,08-MAR-2014 07:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+188,337,07-JUL-2008 00:00:00,Ventriculostomy
+267,3764,25-AUG-2012 00:00:00,Suture of Laceration of Sclera
+267,141,24-AUG-2012 00:00:00,Insertion of Endotracheal Tube
+267,2548,24-AUG-2012 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+267,4959,24-AUG-2012 00:00:00,Placement of Intracerebral Catheter(s) Via Burr Hole(s)
+267,2156,24-AUG-2012 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+428,2610,01-JAN-1000 00:00:00,Transfusion of Packed Cells
+428,310,01-JAN-1000 00:00:00,Transfusion of Other Serum
+428,356,01-JAN-1000 00:00:00,Transfusion of Platelets
+428,184,25-OCT-2013 00:00:00,Other Craniotomy
+428,2548,01-JAN-1000 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+300,42,31-MAR-2012 05:00:00,Arterial Catheterization
+300,2156,31-MAR-2012 05:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+300,2610,31-MAR-2012 05:00:00,Transfusion of Packed Cells
+362,141,08-MAR-2007 00:00:00,Insertion of Endotracheal Tube
+362,43,08-MAR-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+362,2549,08-MAR-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+362,3006,09-MAR-2007 00:00:00,Clipping of Aneurysm
+362,2480,08-MAR-2007 00:00:00,Other Oxygen Enrichment
+257,4871,29-SEP-2013 00:00:00,Transplant from Live Related Donor
+257,4871,29-SEP-2013 00:00:00,Transplant from Live Related Donor
+257,4871,29-SEP-2013 00:00:00,Transplant from Live Related Donor
+257,4871,29-SEP-2013 00:00:00,Transplant from Live Related Donor
+257,4871,29-SEP-2013 00:00:00,Transplant from Live Related Donor
+28,654,06-MAY-2014 06:00:00,Other Cranial Nerve Decompression
+396,2549,26-OCT-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+396,44,18-OCT-2009 00:00:00,Arteriography of Cerebral Arteries
+396,141,26-OCT-2009 00:00:00,Insertion of Endotracheal Tube
+396,4756,19-OCT-2009 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+396,620,19-OCT-2009 00:00:00,Ventricular Shunt to Extracranial Site Nec
+140,2232,26-NOV-2001 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+140,4075,28-NOV-2001 00:00:00,Pulmonary Artery Wedge Monitoring
+140,12,26-NOV-2001 00:00:00,Aortography
+140,44,26-NOV-2001 00:00:00,Arteriography of Cerebral Arteries
+140,44,28-NOV-2001 00:00:00,Arteriography of Cerebral Arteries
+140,1218,27-NOV-2001 00:00:00,Other Repair of Aneurysm
+221,90,01-JAN-1000 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+221,2610,01-JAN-1000 00:00:00,Transfusion of Packed Cells
+221,3940,01-JAN-1000 00:00:00,Video and Radio-Telemetered Electroencephalographic Monitoring
+221,2548,30-MAY-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+429,43,08-NOV-2013 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+429,42,08-NOV-2013 00:00:00,Arterial Catheterization
+429,141,08-NOV-2013 00:00:00,Insertion of Endotracheal Tube
+429,2548,08-NOV-2013 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+7,3983,15-MAY-2009 00:00:00,Coronary Arteriography Using Two Catheters
+7,3028,15-MAY-2009 00:00:00,Left Heart Cardiac Catheterization
+7,4075,15-MAY-2009 00:00:00,Pulmonary Artery Wedge Monitoring
+7,1070,16-MAY-2009 00:00:00,Closed [endoscopic] Biopsy of Bronchus
+7,3980,15-MAY-2009 00:00:00,Angiocardiography of Left Heart Structures
+234,141,28-SEP-2009 00:00:00,Insertion of Endotracheal Tube
+234,337,28-SEP-2009 00:00:00,Ventriculostomy
+234,43,29-SEP-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+234,3613,28-SEP-2009 00:00:00,Incision of Cerebral Meninges
+234,2549,28-SEP-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+81,4990,31-MAR-2012 04:00:00,Intracranial Pressure Monitoring
+81,2549,31-MAR-2012 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+81,2153,31-MAR-2012 04:00:00,"Nonexcisional Debridement of Wound, Infection or Burn"
+81,741,31-MAR-2012 04:00:00,Linear Repair of Laceration of Eyelid or Eyebrow
+81,43,31-MAR-2012 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+81,43,31-MAR-2012 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+81,4990,31-MAR-2012 04:00:00,Intracranial Pressure Monitoring
+81,42,31-MAR-2012 04:00:00,Arterial Catheterization
+446,141,02-MAY-2014 06:00:00,Insertion of Endotracheal Tube
+446,2548,02-MAY-2014 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+446,4852,03-MAY-2014 06:00:00,Infusion of Vasopressor Agent
+94,2548,11-JAN-2006 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+94,4655,12-JAN-2006 00:00:00,Computerized Axial Tomography of Head
+94,3613,11-JAN-2006 00:00:00,Incision of Cerebral Meninges
+94,4655,13-JAN-2006 00:00:00,Computerized Axial Tomography of Head
+145,42,15-AUG-2001 00:00:00,Arterial Catheterization
+481,42,27-NOV-2014 00:00:00,Arterial Catheterization
+481,2548,20-NOV-2014 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+481,5097,21-NOV-2014 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+481,44,21-NOV-2014 00:00:00,Arteriography of Cerebral Arteries
+481,43,20-NOV-2014 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+331,44,21-JUL-2001 00:00:00,Arteriography of Cerebral Arteries
+331,2548,23-JUL-2001 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+331,337,23-JUL-2001 00:00:00,Ventriculostomy
+80,2548,24-JAN-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+80,2981,24-JAN-2007 00:00:00,Fiber-Optic Bronchoscopy
+144,356,27-DEC-2011 00:00:00,Transfusion of Platelets
+144,44,27-DEC-2011 00:00:00,Arteriography of Cerebral Arteries
+144,3613,27-DEC-2011 00:00:00,Incision of Cerebral Meninges
+144,4756,27-DEC-2011 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+97,141,14-OCT-2012 04:00:00,Insertion of Endotracheal Tube
+97,4852,14-OCT-2012 04:00:00,Infusion of Vasopressor Agent
+97,2548,14-OCT-2012 04:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+23,13234,05-JUL-2013 06:00:00,Alcohol (ethanol); any specimen except breath
+23,14084,05-JUL-2013 06:00:00,Compatibility test each unit; electronic
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,2610,05-JUL-2013 06:00:00,Transfusion of Packed Cells
+23,13608,05-JUL-2013 06:00:00,Phosphorus inorganic (phosphate);
+23,14063,05-JUL-2013 06:00:00,"Antibody screen, RBC, each serum technique"
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,356,05-JUL-2013 06:00:00,Transfusion of Platelets
+23,13260,05-JUL-2013 06:00:00,Amylase
+23,13044,05-JUL-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,310,05-JUL-2013 06:00:00,Transfusion of Other Serum
+23,13108,05-JUL-2013 06:00:00,"Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy"
+23,13752,05-JUL-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,13856,05-JUL-2013 06:00:00,"Thromboplastin time, partial (PTT); plasma or whole blood"
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,14302,05-JUL-2013 06:00:00,"Infectious agent detection by nucleic acid (DNA or RNA); Staphylococcus aureus, methicillin resistant, amplified probe technique"
+23,13026,05-JUL-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+23,14071,05-JUL-2013 06:00:00,Blood typing; ABO
+23,14084,05-JUL-2013 06:00:00,Compatibility test each unit; electronic
+23,13499,05-JUL-2013 06:00:00,Lactate (lactic acid)
+23,13044,05-JUL-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+23,13044,05-JUL-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+23,13413,05-JUL-2013 06:00:00,"Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry"
+23,13752,05-JUL-2013 06:00:00,"Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)"
+23,13845,05-JUL-2013 06:00:00,Prothrombin time;
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,14084,05-JUL-2013 06:00:00,Compatibility test each unit; electronic
+23,13044,05-JUL-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+23,13026,05-JUL-2013 06:00:00,"Basic metabolic panel (Calcium, total) This panel must include the following: Calcium, total (82310) Carbon dioxide (bicarbonate) (82374) Chloride (82435) Creatinine (82565) Glucose (82947) Potassium (84132) Sodium (84295) Urea nitrogen (BUN) (84520)"
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,13039,05-JUL-2013 06:00:00,"Hepatic function panel This panel must include the following: Albumin (82040) Bilirubin, total (82247) Bilirubin, direct (82248) Phosphatase, alkaline (84075) Protein, total (84155) Transferase, alanine amino (ALT) (SGPT) (84460) Transferase, aspartate am"
+23,13044,05-JUL-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,13527,05-JUL-2013 06:00:00,Magnesium
+23,22196,05-JUL-2013 06:00:00,"PLATELETS, PHERESIS, LEUKOCYTES REDUCED, EACH UNIT"
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,14084,05-JUL-2013 06:00:00,Compatibility test each unit; electronic
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,14084,05-JUL-2013 06:00:00,Compatibility test each unit; electronic
+23,22185,05-JUL-2013 06:00:00,"FRESH FROZEN PLASMA (SINGLE DONOR), FROZEN WITHIN 8 HOURS OF COLLECTION, EACH UNIT"
+23,13297,05-JUL-2013 06:00:00,Calcium; ionized
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,14084,05-JUL-2013 06:00:00,Compatibility test each unit; electronic
+23,22184,05-JUL-2013 06:00:00,"RED BLOOD CELLS, LEUKOCYTES REDUCED, EACH UNIT"
+23,13044,05-JUL-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+23,13845,05-JUL-2013 06:00:00,Prothrombin time;
+23,14072,05-JUL-2013 06:00:00,Blood typing; Rh (D)
+23,13044,05-JUL-2013 06:00:00,"Drug screen, qualitative; single drug class method (eg, immunoassay, enzyme assay), each drug class"
+23,13856,05-JUL-2013 06:00:00,"Thromboplastin time, partial (PTT); plasma or whole blood"
+235,337,12-DEC-2006 00:00:00,Ventriculostomy
+235,3006,12-DEC-2006 00:00:00,Clipping of Aneurysm
+374,90,06-NOV-2007 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+374,44,07-NOV-2007 00:00:00,Arteriography of Cerebral Arteries
+374,44,03-NOV-2007 00:00:00,Arteriography of Cerebral Arteries
+374,620,07-NOV-2007 00:00:00,Ventricular Shunt to Extracranial Site Nec
+374,3006,05-NOV-2007 00:00:00,Clipping of Aneurysm
+292,141,27-JAN-2011 00:00:00,Insertion of Endotracheal Tube
+292,2548,27-JAN-2011 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+31,42,29-NOV-2013 07:00:00,Arterial Catheterization
+31,43,29-NOV-2013 07:00:00,"Venous Catheterization, Not Elsewhere Classified"
+462,2610,23-MAY-2014 06:00:00,Transfusion of Packed Cells
+462,3900,23-MAY-2014 06:00:00,Systemic Arterial Pressure Monitoring
+462,3618,23-MAY-2014 06:00:00,Lobectomy of Brain
+462,2549,23-MAY-2014 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+462,2071,23-MAY-2014 06:00:00,Other Incision of Soft Tissue
+225,2479,02-SEP-2009 00:00:00,Non-Invasive Mechanical Ventilation
+225,43,02-SEP-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+40,42,14-MAR-2001 00:00:00,Arterial Catheterization
+40,141,14-MAR-2001 00:00:00,Insertion of Endotracheal Tube
+40,3627,14-MAR-2001 00:00:00,Elevation of Skull Fracture Fragments
+40,611,14-MAR-2001 00:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+40,2548,14-MAR-2001 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+40,337,14-MAR-2001 00:00:00,Ventriculostomy
+56,3920,18-JAN-2009 00:00:00,Administration of Tetanus Toxoid
+56,1087,18-JAN-2009 00:00:00,Insertion of Intercostal Catheter for Drainage
+56,2144,18-JAN-2009 00:00:00,Insertion of Totally Implantable Vascular Access Device [vad]
+56,4631,18-JAN-2009 00:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+56,2156,18-JAN-2009 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+474,141,22-JUL-2014 05:00:00,Insertion of Endotracheal Tube
+474,2156,22-JUL-2014 05:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+474,2549,22-JUL-2014 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+277,2549,05-JUN-2013 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+277,620,05-JUN-2013 00:00:00,Ventricular Shunt to Extracranial Site Nec
+277,141,05-JUN-2013 00:00:00,Insertion of Endotracheal Tube
+39,2548,11-SEP-2001 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+39,141,11-SEP-2001 00:00:00,Insertion of Endotracheal Tube
+39,43,11-SEP-2001 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+316,3101,22-OCT-2012 05:00:00,Homograft to Skin
+316,43,21-OCT-2012 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+316,42,21-OCT-2012 05:00:00,Arterial Catheterization
+316,2150,22-OCT-2012 05:00:00,"Excisional Debridement of Wound, Infection, or Burn"
+316,9087,20-OCT-2012 05:00:00,Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older
+316,43,20-OCT-2012 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+316,42,20-OCT-2012 05:00:00,Arterial Catheterization
+316,1087,22-OCT-2012 05:00:00,Insertion of Intercostal Catheter for Drainage
+316,2549,20-OCT-2012 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+316,290,22-OCT-2012 05:00:00,Temporary Tracheostomy
+316,587,22-OCT-2012 05:00:00,Application of Pressure Dressing
+316,9118,20-OCT-2012 05:00:00,"Arterial catheterization or cannulation for sampling, monitoring or transfusion (separate procedure); percutaneous"
+104,337,21-FEB-2002 00:00:00,Ventriculostomy
+104,3613,21-FEB-2002 00:00:00,Incision of Cerebral Meninges
+104,44,21-FEB-2002 00:00:00,Arteriography of Cerebral Arteries
+104,3006,21-FEB-2002 00:00:00,Clipping of Aneurysm
+487,2610,14-JAN-2015 07:00:00,Transfusion of Packed Cells
+487,43,14-JAN-2015 07:00:00,"Venous Catheterization, Not Elsewhere Classified"
+487,2145,14-JAN-2015 07:00:00,Other Incision of Skin and Subcutaneous Tissue
+487,3900,14-JAN-2015 07:00:00,Systemic Arterial Pressure Monitoring
+487,141,14-JAN-2015 07:00:00,Insertion of Endotracheal Tube
+487,2610,14-JAN-2015 07:00:00,Transfusion of Packed Cells
+487,90,14-JAN-2015 07:00:00,Enteral Infusion of Concentrated Nutritional Substances
+487,2549,14-JAN-2015 07:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+487,126,14-JAN-2015 07:00:00,Hypothermia (Central) (Local)
+487,4852,14-JAN-2015 07:00:00,Infusion of Vasopressor Agent
+487,3613,14-JAN-2015 07:00:00,Incision of Cerebral Meninges
+487,741,14-JAN-2015 07:00:00,Linear Repair of Laceration of Eyelid or Eyebrow
+487,43,14-JAN-2015 07:00:00,"Venous Catheterization, Not Elsewhere Classified"
+107,3980,04-SEP-2001 00:00:00,Angiocardiography of Left Heart Structures
+107,3028,04-SEP-2001 00:00:00,Left Heart Cardiac Catheterization
+107,44,28-AUG-2001 00:00:00,Arteriography of Cerebral Arteries
+107,44,03-SEP-2001 00:00:00,Arteriography of Cerebral Arteries
+107,3983,04-SEP-2001 00:00:00,Coronary Arteriography Using Two Catheters
+310,15200,25-FEB-2013 06:00:00,"Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, initial day"
+310,11328,25-FEB-2013 06:00:00,"Craniectomy, bone flap craniotomy, transtemporal (mastoid) for excision of cerebellopontine angle tumor;"
+310,613,25-FEB-2013 06:00:00,Other Cranial Osteoplasty
+310,611,25-FEB-2013 06:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+310,2548,25-FEB-2013 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+352,1164,15-MAY-2013 05:00:00,Endarterectomy of Other Vessels of Head and Neck
+352,4917,15-MAY-2013 05:00:00,Procedure on Two Vessels
+352,84,15-MAY-2013 05:00:00,Diagnostic Ultrasound of Heart
+352,4952,15-MAY-2013 05:00:00,Procedure on Vessel Bifurcation
+352,5108,17-MAY-2013 05:00:00,Central Venous Catheter Placement with Guidance
+135,2232,21-NOV-2008 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+135,44,21-NOV-2008 00:00:00,Arteriography of Cerebral Arteries
+135,2548,21-NOV-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+135,4990,21-NOV-2008 00:00:00,Intracranial Pressure Monitoring
+135,4756,21-NOV-2008 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+376,2610,29-AUG-2007 00:00:00,Transfusion of Packed Cells
+376,1402,29-AUG-2007 00:00:00,Closed (Percutaneous) [needle] Biopsy of Liver
+376,4873,29-AUG-2007 00:00:00,Transplant from Cadaver
+376,243,29-AUG-2007 00:00:00,Other Transplant of Liver
+394,3006,28-APR-2007 00:00:00,Clipping of Aneurysm
+394,2549,28-APR-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+394,42,28-APR-2007 00:00:00,Arterial Catheterization
+394,601,01-MAY-2007 00:00:00,Other Diagnostic Procedures on Brain and Cerebral Meninges
+394,43,28-APR-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+199,4756,23-AUG-2010 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+262,141,12-APR-2011 00:00:00,Insertion of Endotracheal Tube
+262,5097,03-APR-2011 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+262,44,03-APR-2011 00:00:00,Arteriography of Cerebral Arteries
+262,2549,12-APR-2011 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+262,337,03-APR-2011 00:00:00,Ventriculostomy
+274,3627,21-JAN-2011 00:00:00,Elevation of Skull Fracture Fragments
+274,3629,21-JAN-2011 00:00:00,Simple Suture of Dura Mater of Brain
+274,3620,21-JAN-2011 00:00:00,Insertion of Skull Plate
+274,2549,21-JAN-2011 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+427,2610,27-SEP-2013 06:00:00,Transfusion of Packed Cells
+427,1087,03-OCT-2013 06:00:00,Insertion of Intercostal Catheter for Drainage
+427,2862,26-SEP-2013 06:00:00,Debridement of Open Fracture of Tibia and Fibula
+427,3613,24-SEP-2013 06:00:00,Incision of Cerebral Meninges
+427,2156,25-SEP-2013 06:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+427,2893,26-SEP-2013 06:00:00,"Closed Reduction of Fracture with Internal Fixation, Tibia and Fibula"
+427,5108,03-OCT-2013 06:00:00,Central Venous Catheter Placement with Guidance
+427,3900,06-OCT-2013 06:00:00,Systemic Arterial Pressure Monitoring
+427,2545,25-SEP-2013 06:00:00,Other Irrigation of Wound
+427,3091,08-OCT-2013 06:00:00,Interruption of the Vena Cava
+427,141,30-SEP-2013 06:00:00,Insertion of Endotracheal Tube
+427,2549,24-SEP-2013 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+186,44,07-NOV-2014 04:00:00,Arteriography of Cerebral Arteries
+186,42,07-NOV-2014 04:00:00,Arterial Catheterization
+186,4973,07-NOV-2014 00:00:00,Endovascular Removal of Obstruction from Head and Neck Vessel(s)
+186,44,07-NOV-2014 00:00:00,Arteriography of Cerebral Arteries
+186,4756,07-NOV-2014 04:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+186,4990,07-NOV-2014 04:00:00,Intracranial Pressure Monitoring
+186,4916,07-NOV-2014 04:00:00,Procedure on Single Vessel
+186,4973,07-NOV-2014 04:00:00,Endovascular Removal of Obstruction from Head and Neck Vessel(s)
+186,2231,07-NOV-2014 00:00:00,Arteriography of Other Intra-Abdominal Arteries
+186,4756,07-NOV-2014 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+186,44,07-NOV-2014 04:00:00,Arteriography of Cerebral Arteries
+186,2231,07-NOV-2014 04:00:00,Arteriography of Other Intra-Abdominal Arteries
+484,141,15-OCT-2014 04:00:00,Insertion of Endotracheal Tube
+484,2549,15-OCT-2014 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+168,141,25-JAN-2013 00:00:00,Insertion of Endotracheal Tube
+168,1087,25-JAN-2013 00:00:00,Insertion of Intercostal Catheter for Drainage
+168,42,25-JAN-2013 00:00:00,Arterial Catheterization
+168,298,26-JAN-2013 00:00:00,Incision of Chest Wall
+400,3006,23-APR-2008 00:00:00,Clipping of Aneurysm
+400,44,23-APR-2008 00:00:00,Arteriography of Cerebral Arteries
+408,44,04-JAN-2008 00:00:00,Arteriography of Cerebral Arteries
+408,44,03-JAN-2008 00:00:00,Arteriography of Cerebral Arteries
+408,3006,04-JAN-2008 00:00:00,Clipping of Aneurysm
+408,1186,04-JAN-2008 00:00:00,Other Excision of Intracranial Vessels
+308,184,23-SEP-2013 05:00:00,Other Craniotomy
+308,2156,23-SEP-2013 05:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+308,2156,23-SEP-2013 05:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+308,2071,23-SEP-2013 05:00:00,Other Incision of Soft Tissue
+68,2548,15-JUN-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+37,2156,16-MAR-2011 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+37,2548,16-MAR-2011 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+37,356,16-MAR-2011 00:00:00,Transfusion of Platelets
+37,141,16-MAR-2011 00:00:00,Insertion of Endotracheal Tube
+37,43,16-MAR-2011 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+37,310,16-MAR-2011 00:00:00,Transfusion of Other Serum
+361,43,02-JUN-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+361,310,02-JUN-2007 00:00:00,Transfusion of Other Serum
+361,42,02-JUN-2007 00:00:00,Arterial Catheterization
+361,4631,02-JUN-2007 00:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+361,2548,02-JUN-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+361,1208,02-JUN-2007 00:00:00,Other Puncture of Vein
+241,2549,03-MAY-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+241,606,03-MAY-2009 00:00:00,Other Incision of Brain
+129,337,22-AUG-2002 00:00:00,Ventriculostomy
+129,43,22-AUG-2002 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+129,141,22-AUG-2002 00:00:00,Insertion of Endotracheal Tube
+129,2548,22-AUG-2002 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+166,2704,03-OCT-2007 00:00:00,Open Reduction of Malar and Zygomatic Fracture
+183,9096,25-MAY-2011 04:00:00,"Insertion of peripherally inserted central venous catheter (PICC), without subcutaneous port or pump; age 5 years or older"
+328,44,20-MAR-2006 00:00:00,Arteriography of Cerebral Arteries
+328,4756,23-MAR-2006 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+328,337,20-MAR-2006 00:00:00,Ventriculostomy
+328,43,19-MAR-2006 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+329,2548,07-OCT-2006 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+329,337,07-OCT-2006 00:00:00,Ventriculostomy
+329,290,07-OCT-2006 00:00:00,Temporary Tracheostomy
+151,44,15-APR-2012 04:00:00,Arteriography of Cerebral Arteries
+151,4756,15-APR-2012 04:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+151,43,15-APR-2012 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+443,43,23-NOV-2013 06:35:00,"Venous Catheterization, Not Elsewhere Classified"
+443,42,23-NOV-2013 06:35:00,Arterial Catheterization
+443,2548,23-NOV-2013 06:35:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+443,141,23-NOV-2013 06:35:00,Insertion of Endotracheal Tube
+275,5097,27-JAN-2011 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+275,2549,27-JAN-2011 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+275,44,27-JAN-2011 00:00:00,Arteriography of Cerebral Arteries
+275,184,27-JAN-2011 00:00:00,Other Craniotomy
+189,3006,23-FEB-2008 00:00:00,Clipping of Aneurysm
+189,284,23-FEB-2008 00:00:00,Spinal Tap
+116,4756,17-JUN-2008 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+116,4705,17-JUN-2008 00:00:00,Injection or Infusion of Platelet Inhibitor
+116,44,17-JUN-2008 00:00:00,Arteriography of Cerebral Arteries
+338,2548,20-APR-2012 07:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+338,4852,20-APR-2012 07:00:00,Infusion of Vasopressor Agent
+338,43,20-APR-2012 07:00:00,"Venous Catheterization, Not Elsewhere Classified"
+338,141,20-APR-2012 07:00:00,Insertion of Endotracheal Tube
+338,4631,20-APR-2012 07:00:00,"Cardiopulmonary Resuscitation, Not Otherwise Specified"
+338,43,20-APR-2012 07:00:00,"Venous Catheterization, Not Elsewhere Classified"
+338,43,20-APR-2012 07:00:00,"Venous Catheterization, Not Elsewhere Classified"
+338,42,20-APR-2012 07:00:00,Arterial Catheterization
+431,4866,02-NOV-2013 00:00:00,Percutaneous Angioplasty of Extracranial Vessel(s)
+431,4917,02-NOV-2013 00:00:00,Procedure on Two Vessels
+431,44,02-NOV-2013 00:00:00,Arteriography of Cerebral Arteries
+281,44,09-NOV-2012 00:00:00,Arteriography of Cerebral Arteries
+281,4989,09-NOV-2012 00:00:00,Intra-Operative Neurophysiologic Monitoring
+281,5097,09-NOV-2012 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+3,44,24-MAY-2011 05:00:00,Arteriography of Cerebral Arteries
+3,2549,24-MAY-2011 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+3,43,25-MAY-2011 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+3,42,25-MAY-2011 05:00:00,Arterial Catheterization
+3,4705,24-MAY-2011 05:00:00,Injection or Infusion of Platelet Inhibitor
+3,5098,24-MAY-2011 05:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bioactive Coils
+3,44,25-MAY-2011 05:00:00,Arteriography of Cerebral Arteries
+3,337,24-MAY-2011 05:00:00,Ventriculostomy
+3,141,24-MAY-2011 05:00:00,Insertion of Endotracheal Tube
+95,141,18-FEB-2004 00:00:00,Insertion of Endotracheal Tube
+95,2548,18-FEB-2004 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+54,2548,13-JAN-2007 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+418,1221,09-FEB-2007 00:00:00,Repair of Blood Vessel with Synthetic Patch Graft
+418,141,09-FEB-2007 00:00:00,Insertion of Endotracheal Tube
+418,2549,09-FEB-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+418,99,09-FEB-2007 00:00:00,Extracorporeal Circulation Auxiliary to Open Heart Surgery
+349,2548,13-NOV-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+349,43,13-NOV-2008 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+490,4756,15-JUL-2014 05:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+490,44,15-JUL-2014 05:00:00,Arteriography of Cerebral Arteries
+468,43,21-AUG-2014 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+468,3900,20-AUG-2014 06:00:00,Systemic Arterial Pressure Monitoring
+468,4852,21-AUG-2014 06:00:00,Infusion of Vasopressor Agent
+468,2548,21-AUG-2014 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+468,3006,21-AUG-2014 06:00:00,Clipping of Aneurysm
+273,44,30-DEC-2012 00:00:00,Arteriography of Cerebral Arteries
+273,2232,30-DEC-2012 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+273,5097,30-DEC-2012 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+261,2549,26-MAY-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+261,141,26-MAY-2014 00:00:00,Insertion of Endotracheal Tube
+261,184,26-MAY-2014 00:00:00,Other Craniotomy
+261,4990,26-MAY-2014 00:00:00,Intracranial Pressure Monitoring
+269,100,25-MAY-2013 00:00:00,Extracorporeal Membrane Oxygenation [ECMO]
+458,2549,09-JUL-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+458,4526,10-JUL-2014 00:00:00,Percutaneous Abdominal Drainage
+314,44,22-DEC-2010 06:00:00,Arteriography of Cerebral Arteries
+314,11469,22-DEC-2010 06:00:00,Ventriculocisternostomy (Torkildsen type operation)
+314,4959,22-DEC-2010 06:00:00,Placement of Intracerebral Catheter(s) Via Burr Hole(s)
+314,11277,22-DEC-2010 06:00:00,"Twist drill hole(s) for subdural, intracerebral, or ventricular puncture; for evacuation and/or drainage of subdural hematoma"
+314,4756,22-DEC-2010 06:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+314,2549,22-DEC-2010 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+314,8165,22-DEC-2010 06:00:00,"Intubation, endotracheal, emergency procedure"
+314,43,22-DEC-2010 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+314,337,22-DEC-2010 06:00:00,Ventriculostomy
+136,141,03-AUG-2008 00:00:00,Insertion of Endotracheal Tube
+136,2232,03-AUG-2008 00:00:00,Arteriography of Femoral and Other Lower Extremity Arteries
+136,3006,03-AUG-2008 00:00:00,Clipping of Aneurysm
+136,2549,03-AUG-2008 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+136,337,03-AUG-2008 00:00:00,Ventriculostomy
+136,44,03-AUG-2008 00:00:00,Arteriography of Cerebral Arteries
+327,5108,17-JAN-2012 06:00:00,Central Venous Catheter Placement with Guidance
+327,2548,16-JAN-2012 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+243,195,03-FEB-2010 00:00:00,Other Exploration and Decompression of Spinal Canal
+243,5097,03-FEB-2010 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+243,43,03-FEB-2010 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+243,44,03-FEB-2010 00:00:00,Arteriography of Cerebral Arteries
+174,141,05-APR-2009 00:00:00,Insertion of Endotracheal Tube
+174,741,06-APR-2009 00:00:00,Linear Repair of Laceration of Eyelid or Eyebrow
+174,2156,06-APR-2009 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+174,2548,05-APR-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+360,43,28-AUG-2010 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+360,42,29-AUG-2010 00:00:00,Arterial Catheterization
+360,4852,28-AUG-2010 00:00:00,Infusion of Vasopressor Agent
+485,3900,04-DEC-2014 07:00:00,Systemic Arterial Pressure Monitoring
+485,4991,04-DEC-2014 07:00:00,Intracranial Oxygen Monitoring
+485,141,04-DEC-2014 07:00:00,Insertion of Endotracheal Tube
+485,2548,04-DEC-2014 07:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+485,4990,04-DEC-2014 07:00:00,Intracranial Pressure Monitoring
+485,4992,04-DEC-2014 07:00:00,Brain Temperature Monitoring
+313,1087,15-MAR-2013 06:00:00,Insertion of Intercostal Catheter for Drainage
+313,2156,15-MAR-2013 06:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+313,2549,15-MAR-2013 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+313,42,15-MAR-2013 06:00:00,Arterial Catheterization
+313,43,15-MAR-2013 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+356,42,28-APR-2007 00:00:00,Arterial Catheterization
+100,44,05-MAR-2013 05:00:00,Arteriography of Cerebral Arteries
+100,284,04-MAR-2013 05:00:00,Spinal Tap
+100,2248,03-MAR-2013 05:00:00,Magnetic Resonance Imaging of Spinal Canal
+100,3960,01-MAR-2013 05:00:00,Magnetic Resonance Imaging of Brain and Brain Stem
+119,2549,24-FEB-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+498,3914,08-DEC-2014 06:00:00,Administration of Tetanus Antitoxin
+498,141,08-DEC-2014 06:00:00,Insertion of Endotracheal Tube
+498,2548,08-DEC-2014 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+148,284,18-JUL-2013 04:00:00,Spinal Tap
+148,5108,16-JUL-2013 04:00:00,Central Venous Catheter Placement with Guidance
+148,3006,18-JUL-2013 04:00:00,Clipping of Aneurysm
+148,44,18-JUL-2013 04:00:00,Arteriography of Cerebral Arteries
+148,606,18-JUL-2013 04:00:00,Other Incision of Brain
+148,44,16-JUL-2013 04:00:00,Arteriography of Cerebral Arteries
+148,42,16-JUL-2013 04:00:00,Arterial Catheterization
+29,4959,21-FEB-2014 07:00:00,Placement of Intracerebral Catheter(s) Via Burr Hole(s)
+29,611,21-FEB-2014 07:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+491,2548,11-DEC-2014 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+491,44,13-DEC-2014 06:00:00,Arteriography of Cerebral Arteries
+491,3609,12-DEC-2014 06:00:00,Reopening of Craniotomy Site
+491,43,15-DEC-2014 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+491,3006,11-DEC-2014 06:00:00,Clipping of Aneurysm
+491,44,12-DEC-2014 06:00:00,Arteriography of Cerebral Arteries
+491,44,16-DEC-2014 06:00:00,Arteriography of Cerebral Arteries
+491,141,11-DEC-2014 06:00:00,Insertion of Endotracheal Tube
+491,44,11-DEC-2014 06:00:00,Arteriography of Cerebral Arteries
+470,356,14-SEP-2014 06:00:00,Transfusion of Platelets
+470,43,14-SEP-2014 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+470,2548,14-SEP-2014 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+92,90,29-DEC-2005 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+92,2549,29-DEC-2005 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+92,43,29-DEC-2005 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+499,2549,20-NOV-2014 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+499,2153,20-NOV-2014 06:00:00,"Nonexcisional Debridement of Wound, Infection or Burn"
+499,3613,20-NOV-2014 06:00:00,Incision of Cerebral Meninges
+499,184,20-NOV-2014 06:00:00,Other Craniotomy
+176,42,21-MAR-2013 00:00:00,Arterial Catheterization
+176,44,21-MAR-2013 00:00:00,Arteriography of Cerebral Arteries
+176,4756,21-MAR-2013 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+242,141,06-NOV-2013 00:00:00,Insertion of Endotracheal Tube
+242,2548,06-NOV-2013 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+66,43,22-JUN-2005 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+66,2548,22-JUN-2005 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+66,141,22-JUN-2005 00:00:00,Insertion of Endotracheal Tube
+66,601,23-JUN-2005 00:00:00,Other Diagnostic Procedures on Brain and Cerebral Meninges
+380,620,01-MAY-2009 00:00:00,Ventricular Shunt to Extracranial Site Nec
+380,337,01-MAY-2009 00:00:00,Ventriculostomy
+380,611,01-MAY-2009 00:00:00,Other Excision or Destruction of Lesion or Tissue of Brain
+380,141,02-MAY-2009 00:00:00,Insertion of Endotracheal Tube
+380,43,02-MAY-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+380,2548,02-MAY-2009 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+77,43,02-JUL-2005 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+77,44,02-JUL-2005 00:00:00,Arteriography of Cerebral Arteries
+77,337,03-JUL-2005 00:00:00,Ventriculostomy
+77,141,02-JUL-2005 00:00:00,Insertion of Endotracheal Tube
+77,2549,02-JUL-2005 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+111,4485,25-MAY-2003 00:00:00,Angioplasty of Other Non-Coronary Vessel(s)
+111,141,25-MAY-2003 00:00:00,Insertion of Endotracheal Tube
+111,2548,25-MAY-2003 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+111,4756,21-MAY-2003 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+111,44,25-MAY-2003 00:00:00,Arteriography of Cerebral Arteries
+111,44,21-MAY-2003 00:00:00,Arteriography of Cerebral Arteries
+165,141,22-JAN-2009 00:00:00,Insertion of Endotracheal Tube
+165,4075,22-JAN-2009 00:00:00,Pulmonary Artery Wedge Monitoring
+165,2549,22-JAN-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+240,4990,20-AUG-2008 00:00:00,Intracranial Pressure Monitoring
+240,2549,20-AUG-2008 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+378,44,11-JUN-2007 00:00:00,Arteriography of Cerebral Arteries
+378,43,10-JUN-2007 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+378,3006,06-JUN-2007 00:00:00,Clipping of Aneurysm
+143,637,06-MAY-2003 00:00:00,Other Shunt of Spinal Theca
+143,3006,06-MAY-2003 00:00:00,Clipping of Aneurysm
+143,44,06-MAY-2003 00:00:00,Arteriography of Cerebral Arteries
+89,2548,10-MAR-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+477,2480,24-DEC-2014 07:00:00,Other Oxygen Enrichment
+477,2549,24-DEC-2014 07:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+477,3900,24-DEC-2014 07:00:00,Systemic Arterial Pressure Monitoring
+477,253,24-DEC-2014 07:00:00,Parenteral Infusion of Concentrated Nutritional Substances
+477,141,24-DEC-2014 07:00:00,Insertion of Endotracheal Tube
+477,5108,24-DEC-2014 07:00:00,Central Venous Catheter Placement with Guidance
+192,3613,09-JUL-2012 00:00:00,Incision of Cerebral Meninges
+192,4756,09-JUL-2012 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+192,606,09-JUL-2012 00:00:00,Other Incision of Brain
+397,2549,29-NOV-2006 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+397,620,29-NOV-2006 00:00:00,Ventricular Shunt to Extracranial Site Nec
+102,4756,27-NOV-2007 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+102,44,27-NOV-2007 00:00:00,Arteriography of Cerebral Arteries
+102,4705,27-NOV-2007 00:00:00,Injection or Infusion of Platelet Inhibitor
+330,2548,19-NOV-2000 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+330,601,19-NOV-2000 00:00:00,Other Diagnostic Procedures on Brain and Cerebral Meninges
+359,2549,25-JUL-2008 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+61,2981,26-AUG-2011 04:00:00,Fiber-Optic Bronchoscopy
+61,284,22-AUG-2011 04:00:00,Spinal Tap
+61,44,24-AUG-2011 04:00:00,Arteriography of Cerebral Arteries
+61,44,26-AUG-2011 04:00:00,Arteriography of Cerebral Arteries
+61,5098,26-AUG-2011 04:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bioactive Coils
+61,119,19-AUG-2011 04:00:00,Hemodialysis
+61,84,26-AUG-2011 04:00:00,Diagnostic Ultrasound of Heart
+442,3940,17-MAR-2014 06:00:00,Video and Radio-Telemetered Electroencephalographic Monitoring
+442,4990,14-MAR-2014 06:00:00,Intracranial Pressure Monitoring
+442,3900,14-MAR-2014 06:00:00,Systemic Arterial Pressure Monitoring
+442,3006,14-MAR-2014 06:00:00,Clipping of Aneurysm
+306,2716,07-JUN-2013 05:00:00,Repair of Vertebral Fracture
+306,195,07-JUN-2013 05:00:00,Other Exploration and Decompression of Spinal Canal
+306,195,07-JUN-2013 05:00:00,Other Exploration and Decompression of Spinal Canal
+306,2006,07-JUN-2013 05:00:00,"Other Cervical Fusion of the Posterior Column, Posterior Technique"
+306,1840,07-JUN-2013 05:00:00,"Excision of Other Bone for Graft, Except Facial Bones"
+306,4901,07-JUN-2013 05:00:00,Fusion or Refusion of 2-3 Vertebrae
+230,141,22-JUL-2004 00:00:00,Insertion of Endotracheal Tube
+230,2548,22-JUL-2004 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+365,2549,15-MAY-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+365,337,16-MAY-2009 00:00:00,Ventriculostomy
+365,44,16-MAY-2009 00:00:00,Arteriography of Cerebral Arteries
+109,3980,23-OCT-2008 00:00:00,Angiocardiography of Left Heart Structures
+109,3071,23-OCT-2008 00:00:00,Resection of Abdominal Aorta with Replacement
+109,3028,23-OCT-2008 00:00:00,Left Heart Cardiac Catheterization
+109,99,23-OCT-2008 00:00:00,Extracorporeal Circulation Auxiliary to Open Heart Surgery
+195,42,27-JUL-2012 00:00:00,Arterial Catheterization
+195,43,27-JUL-2012 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+195,2548,26-JUL-2012 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+479,2548,06-NOV-2014 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+426,3742,08-SEP-2013 06:00:00,Suture of Corneal Laceration
+426,1963,08-SEP-2013 06:00:00,Other Arthrotomy of Knee
+426,3764,08-SEP-2013 06:00:00,Suture of Laceration of Sclera
+426,141,08-SEP-2013 06:00:00,Insertion of Endotracheal Tube
+426,2665,08-SEP-2013 06:00:00,Bursectomy
+426,2549,08-SEP-2013 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+426,2156,08-SEP-2013 06:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+426,2610,08-SEP-2013 06:00:00,Transfusion of Packed Cells
+405,4867,03-MAR-2010 00:00:00,Percutaneous Angioplasty of Intracranial Vessel(s)
+405,4756,03-MAR-2010 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+405,141,05-MAR-2010 00:00:00,Insertion of Endotracheal Tube
+405,2549,05-MAR-2010 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+152,2548,21-MAY-2011 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+152,141,21-MAY-2011 05:00:00,Insertion of Endotracheal Tube
+152,184,20-MAY-2011 05:00:00,Other Craniotomy
+213,356,12-MAY-2013 05:00:00,Transfusion of Platelets
+213,2630,12-MAY-2013 05:00:00,Therapeutic Plasmapheresis
+213,4852,12-MAY-2013 05:00:00,Infusion of Vasopressor Agent
+213,320,12-MAY-2013 05:00:00,Ureteral Catheterization
+213,4001,12-MAY-2013 05:00:00,Retrograde Pyelogram
+213,2549,12-MAY-2013 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+198,9096,24-SEP-2013 04:00:00,"Insertion of peripherally inserted central venous catheter (PICC), without subcutaneous port or pump; age 5 years or older"
+198,4852,24-SEP-2013 00:00:00,Infusion of Vasopressor Agent
+198,4852,21-SEP-2013 00:00:00,Infusion of Vasopressor Agent
+198,4852,24-SEP-2013 00:00:00,Infusion of Vasopressor Agent
+198,4852,21-SEP-2013 00:00:00,Infusion of Vasopressor Agent
+67,43,01-JAN-1000 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+67,2549,01-JAN-1000 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+67,141,01-JAN-1000 00:00:00,Insertion of Endotracheal Tube
+67,1087,01-JAN-1000 00:00:00,Insertion of Intercostal Catheter for Drainage
+67,2610,01-JAN-1000 00:00:00,Transfusion of Packed Cells
+67,290,01-JAN-1000 00:00:00,Temporary Tracheostomy
+67,173,01-JAN-1000 00:00:00,Other Bronchoscopy
+67,4075,01-JAN-1000 00:00:00,Pulmonary Artery Wedge Monitoring
+67,1095,01-JAN-1000 00:00:00,Decortication of Lung
+67,3902,01-JAN-1000 00:00:00,Monitoring of Cardiac Output by Other Technique
+67,42,01-JAN-1000 00:00:00,Arterial Catheterization
+67,2986,01-JAN-1000 00:00:00,Thoracentesis
+434,290,16-MAR-2014 00:00:00,Temporary Tracheostomy
+434,3091,02-APR-2014 00:00:00,Interruption of the Vena Cava
+434,141,12-MAR-2014 00:00:00,Insertion of Endotracheal Tube
+434,3349,12-MAR-2014 00:00:00,"Total Excision of Pituitary Gland, Transsphenoidal Approach"
+434,2549,12-MAR-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+434,5121,12-MAR-2014 00:00:00,Fat Graft of Skin and Subcutaneous Tissue
+251,2156,15-DEC-2006 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+251,4901,15-DEC-2006 00:00:00,Fusion or Refusion of 2-3 Vertebrae
+251,2716,15-DEC-2006 00:00:00,Repair of Vertebral Fracture
+251,2005,15-DEC-2006 00:00:00,"Other Cervical Fusion of the Anterior Column, Anterior Technique"
+2,2610,06-APR-2007 00:00:00,Transfusion of Packed Cells
+2,356,06-APR-2007 00:00:00,Transfusion of Platelets
+255,141,26-SEP-2012 00:00:00,Insertion of Endotracheal Tube
+255,2548,26-SEP-2012 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+255,42,26-SEP-2012 00:00:00,Arterial Catheterization
+255,3909,25-SEP-2012 00:00:00,Injection of Antibiotic
+255,44,26-SEP-2012 00:00:00,Arteriography of Cerebral Arteries
+255,3006,26-SEP-2012 00:00:00,Clipping of Aneurysm
+237,3006,30-SEP-2006 00:00:00,Clipping of Aneurysm
+237,337,30-SEP-2006 00:00:00,Ventriculostomy
+197,1087,30-NOV-2013 00:00:00,Insertion of Intercostal Catheter for Drainage
+197,2548,30-NOV-2013 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+197,141,30-NOV-2013 00:00:00,Insertion of Endotracheal Tube
+197,2610,30-NOV-2013 00:00:00,Transfusion of Packed Cells
+497,5097,17-JAN-2015 06:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+226,614,19-FEB-2011 00:00:00,Other Repair of Cerebral Meninges
+226,2548,19-FEB-2011 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+226,141,19-FEB-2011 00:00:00,Insertion of Endotracheal Tube
+226,1556,19-FEB-2011 00:00:00,Insertion of Indwelling Urinary Catheter
+226,3613,19-FEB-2011 00:00:00,Incision of Cerebral Meninges
+226,4990,19-FEB-2011 00:00:00,Intracranial Pressure Monitoring
+93,2005,28-DEC-2005 00:00:00,"Other Cervical Fusion of the Anterior Column, Anterior Technique"
+93,1087,18-DEC-2005 00:00:00,Insertion of Intercostal Catheter for Drainage
+125,141,10-NOV-2006 00:00:00,Insertion of Endotracheal Tube
+125,2549,10-NOV-2006 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+125,3613,10-NOV-2006 00:00:00,Incision of Cerebral Meninges
+125,3609,11-NOV-2006 00:00:00,Reopening of Craniotomy Site
+171,4756,01-MAR-2011 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+344,2719,21-NOV-2011 05:00:00,"Dorsal and Dorsolumbar Fusion of the Posterior Column, Posterior Technique"
+344,4902,21-NOV-2011 05:00:00,Fusion or Refusion of 4- 8 Vertebrae
+344,2716,21-NOV-2011 05:00:00,Repair of Vertebral Fracture
+344,2248,20-NOV-2011 05:00:00,Magnetic Resonance Imaging of Spinal Canal
+375,3006,09-JUN-2009 00:00:00,Clipping of Aneurysm
+375,195,09-JUN-2009 00:00:00,Other Exploration and Decompression of Spinal Canal
+375,42,09-JUN-2009 00:00:00,Arterial Catheterization
+375,356,09-JUN-2009 00:00:00,Transfusion of Platelets
+375,43,09-JUN-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+372,44,17-DEC-2008 00:00:00,Arteriography of Cerebral Arteries
+372,1186,17-DEC-2008 00:00:00,Other Excision of Intracranial Vessels
+372,3006,17-DEC-2008 00:00:00,Clipping of Aneurysm
+372,3053,23-DEC-2008 00:00:00,Open and Other Replacement of Aortic Valve with Tissue Graft
+372,84,18-DEC-2008 00:00:00,Diagnostic Ultrasound of Heart
+372,42,23-DEC-2008 00:00:00,Arterial Catheterization
+350,253,01-MAY-2010 05:00:00,Parenteral Infusion of Concentrated Nutritional Substances
+350,2548,03-MAY-2010 05:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+350,356,03-MAY-2010 05:00:00,Transfusion of Platelets
+350,2610,03-MAY-2010 05:00:00,Transfusion of Packed Cells
+350,141,03-MAY-2010 05:00:00,Insertion of Endotracheal Tube
+439,4990,12-JAN-2014 00:00:00,Intracranial Pressure Monitoring
+439,595,12-JAN-2014 00:00:00,Other Cranial Puncture
+439,43,12-JAN-2014 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+212,44,04-FEB-2013 06:00:00,Arteriography of Cerebral Arteries
+212,3006,03-FEB-2013 06:00:00,Clipping of Aneurysm
+212,2549,03-FEB-2013 06:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+212,614,03-FEB-2013 06:00:00,Other Repair of Cerebral Meninges
+212,3613,03-FEB-2013 06:00:00,Incision of Cerebral Meninges
+212,141,03-FEB-2013 06:00:00,Insertion of Endotracheal Tube
+212,43,04-FEB-2013 06:00:00,"Venous Catheterization, Not Elsewhere Classified"
+212,4852,06-FEB-2013 06:00:00,Infusion of Vasopressor Agent
+212,90,05-FEB-2013 06:00:00,Enteral Infusion of Concentrated Nutritional Substances
+233,3613,04-APR-2007 00:00:00,Incision of Cerebral Meninges
+233,141,04-APR-2007 00:00:00,Insertion of Endotracheal Tube
+233,2549,04-APR-2007 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+463,43,04-AUG-2014 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+463,3900,04-AUG-2014 00:00:00,Systemic Arterial Pressure Monitoring
+463,2548,02-AUG-2014 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+403,337,20-MAR-2007 00:00:00,Ventriculostomy
+383,4852,31-DEC-2009 00:00:00,Infusion of Vasopressor Agent
+383,90,01-JAN-2010 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+383,2549,31-DEC-2009 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+78,43,27-NOV-2009 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+78,2619,01-JAN-1000 00:00:00,Injection or Infusion of Cancer Chemotherapeutic Substance
+78,141,24-NOV-2009 00:00:00,Insertion of Endotracheal Tube
+120,4852,14-NOV-2005 00:00:00,Infusion of Vasopressor Agent
+127,90,01-FEB-2012 00:00:00,Enteral Infusion of Concentrated Nutritional Substances
+127,3916,01-FEB-2012 00:00:00,Injection of Anticoagulant
+345,141,11-JUN-2012 04:00:00,Insertion of Endotracheal Tube
+345,4999,15-JUN-2012 04:00:00,Other and Unspecified Segmental Resection of Lung
+345,1079,15-JUN-2012 04:00:00,Other Repair and Plastic Operations on Bronchus
+345,84,15-JUN-2012 04:00:00,Diagnostic Ultrasound of Heart
+345,43,11-JUN-2012 04:00:00,"Venous Catheterization, Not Elsewhere Classified"
+345,1070,12-JUN-2012 04:00:00,Closed [endoscopic] Biopsy of Bronchus
+345,1087,15-JUN-2012 04:00:00,Insertion of Intercostal Catheter for Drainage
+345,4709,11-JUN-2012 04:00:00,Other Endovascular Procedures on Other Vessels
+345,2549,11-JUN-2012 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+345,1231,15-JUN-2012 04:00:00,Simple Excision of Other Lymphatic Structure
+345,3960,15-JUN-2012 04:00:00,Magnetic Resonance Imaging of Brain and Brain Stem
+496,43,27-JAN-2015 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+496,44,27-JAN-2015 00:00:00,Arteriography of Cerebral Arteries
+496,2548,27-JAN-2015 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+496,4990,27-JAN-2015 00:00:00,Intracranial Pressure Monitoring
+496,356,27-JAN-2015 00:00:00,Transfusion of Platelets
+461,2548,01-SEP-2014 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+461,141,01-SEP-2014 06:00:00,Insertion of Endotracheal Tube
+461,3900,01-SEP-2014 06:00:00,Systemic Arterial Pressure Monitoring
+182,606,04-SEP-2008 00:00:00,Other Incision of Brain
+182,2549,28-AUG-2008 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+182,337,04-SEP-2008 00:00:00,Ventriculostomy
+182,614,04-SEP-2008 00:00:00,Other Repair of Cerebral Meninges
+182,3006,04-SEP-2008 00:00:00,Clipping of Aneurysm
+249,2545,12-MAY-2005 00:00:00,Other Irrigation of Wound
+249,2776,12-MAY-2005 00:00:00,Open Reduction of Fracture of Radius and Ulna with Internal Fixation
+249,42,17-MAY-2005 00:00:00,Arterial Catheterization
+249,2755,12-MAY-2005 00:00:00,Debridement of Open Fracture of Radius and Ulna
+456,2549,12-JUL-2014 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+456,2156,12-JUL-2014 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+456,141,12-JUL-2014 00:00:00,Insertion of Endotracheal Tube
+456,3613,13-JUL-2014 00:00:00,Incision of Cerebral Meninges
+456,3689,12-JUL-2014 00:00:00,Canthotomy
+169,119,13-OCT-2011 00:00:00,Hemodialysis
+169,42,12-OCT-2011 00:00:00,Arterial Catheterization
+169,43,12-OCT-2011 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+169,2548,12-OCT-2011 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+169,141,12-OCT-2011 00:00:00,Insertion of Endotracheal Tube
+214,42,18-MAR-2008 00:00:00,Arterial Catheterization
+214,2156,18-MAR-2008 00:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+214,2548,18-MAR-2008 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+87,231,25-NOV-2011 04:00:00,Other Repair of Vessel
+87,4525,25-NOV-2011 04:00:00,Other Lysis of Peritoneal Adhesions
+87,741,25-NOV-2011 04:00:00,Linear Repair of Laceration of Eyelid or Eyebrow
+87,2549,25-NOV-2011 04:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+87,2156,25-NOV-2011 04:00:00,Closure of Skin and Subcutaneous Tissue Other Sites
+87,141,25-NOV-2011 04:00:00,Insertion of Endotracheal Tube
+87,1340,25-NOV-2011 04:00:00,"Suture of Laceration of Small Intestine, Except Duodenum"
+87,1408,25-NOV-2011 04:00:00,Closure of Laceration of Liver
+87,1087,25-NOV-2011 04:00:00,Insertion of Intercostal Catheter for Drainage
+87,161,25-NOV-2011 04:00:00,Nephroureterectomy
+170,44,14-SEP-2007 00:00:00,Arteriography of Cerebral Arteries
+170,44,07-SEP-2007 00:00:00,Arteriography of Cerebral Arteries
+170,3006,07-SEP-2007 00:00:00,Clipping of Aneurysm
+244,141,20-MAR-2005 00:00:00,Insertion of Endotracheal Tube
+244,606,20-MAR-2005 00:00:00,Other Incision of Brain
+244,44,21-MAR-2005 00:00:00,Arteriography of Cerebral Arteries
+373,3006,13-SEP-2013 18:33:00,Clipping of Aneurysm
+373,11403,01-JAN-1000 00:00:00,"Surgery of complex intracranial aneurysm, intracranial approach; carotid circulation"
+373,44,12-SEP-2013 04:00:00,Arteriography of Cerebral Arteries
+373,284,12-SEP-2013 19:40:00,Spinal Tap
+373,12199,01-JAN-1000 00:00:00,"Microsurgical techniques, requiring use of operating microscope (List separately in addition to code for primary procedure)"
+279,284,02-OCT-2014 00:00:00,Spinal Tap
+279,1070,24-SEP-2014 00:00:00,Closed [endoscopic] Biopsy of Bronchus
+279,3613,22-SEP-2014 00:00:00,Incision of Cerebral Meninges
+279,43,25-SEP-2014 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+279,4990,22-SEP-2014 00:00:00,Intracranial Pressure Monitoring
+105,337,31-MAR-2009 00:00:00,Ventriculostomy
+105,4756,31-MAR-2009 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+55,4756,02-OCT-2009 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+185,189,23-JAN-2013 00:00:00,Other Electric Countershock of Heart
+185,43,23-JAN-2013 00:00:00,"Venous Catheterization, Not Elsewhere Classified"
+185,119,23-JAN-2013 00:00:00,Hemodialysis
+185,141,22-JAN-2013 00:00:00,Insertion of Endotracheal Tube
+185,2549,22-JAN-2013 00:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+161,4756,21-OCT-2011 00:00:00,Endovascular (Total) Embolization or Occlusion of Head and Neck Vessels
+161,44,21-OCT-2011 00:00:00,Arteriography of Cerebral Arteries
+286,620,18-FEB-2011 00:00:00,Ventricular Shunt to Extracranial Site Nec
+286,44,18-FEB-2011 00:00:00,Arteriography of Cerebral Arteries
+286,5097,18-FEB-2011 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+433,3006,04-DEC-2013 00:00:00,Clipping of Aneurysm
+433,44,04-DEC-2013 00:00:00,Arteriography of Cerebral Arteries
+433,3613,04-DEC-2013 00:00:00,Incision of Cerebral Meninges
+433,42,08-DEC-2013 00:00:00,Arterial Catheterization
+433,5108,09-DEC-2013 00:00:00,Central Venous Catheter Placement with Guidance
+433,2548,04-DEC-2013 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+393,44,03-JAN-2010 00:00:00,Arteriography of Cerebral Arteries
+393,141,03-JAN-2010 00:00:00,Insertion of Endotracheal Tube
+393,2548,03-JAN-2010 00:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+12,4990,20-AUG-2014 06:00:00,Intracranial Pressure Monitoring
+12,3620,19-AUG-2014 06:00:00,Insertion of Skull Plate
+12,3900,19-AUG-2014 06:00:00,Systemic Arterial Pressure Monitoring
+12,2548,21-AUG-2014 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+12,2610,19-AUG-2014 06:00:00,Transfusion of Packed Cells
+12,3006,19-AUG-2014 06:00:00,Clipping of Aneurysm
+12,4991,20-AUG-2014 06:00:00,Intracranial Oxygen Monitoring
+12,4989,19-AUG-2014 06:00:00,Intra-Operative Neurophysiologic Monitoring
+12,4992,20-AUG-2014 06:00:00,Brain Temperature Monitoring
+12,126,21-AUG-2014 06:00:00,Hypothermia (Central) (Local)
+302,2548,29-JAN-2013 06:00:00,Continuous Invasive Mechanical Ventilation for Less Than 96 Consecutive Hours
+448,141,26-MAY-2014 05:00:00,Insertion of Endotracheal Tube
+448,614,26-MAY-2014 05:00:00,Other Repair of Cerebral Meninges
+448,417,26-MAY-2014 05:00:00,Repair of Brain
+448,604,26-MAY-2014 05:00:00,Other Craniectomy
+448,43,27-MAY-2014 05:00:00,"Venous Catheterization, Not Elsewhere Classified"
+448,2549,26-MAY-2014 05:00:00,Continuous Invasive Mechanical Ventilation for 96 Consecutive Hours or More
+448,4990,26-MAY-2014 05:00:00,Intracranial Pressure Monitoring
+179,5097,14-MAR-2010 00:00:00,Endovascular Embolization or Occlusion of Vessel(s) of Head or Neck Using Bare Coils
+43,3006,30-MAR-2002 00:00:00,Clipping of Aneurysm

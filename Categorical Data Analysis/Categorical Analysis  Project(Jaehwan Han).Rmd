@@ -1,0 +1,264 @@
+---
+title: "Categorical Project (Jaehwan Han)"
+author: "Jaehwan Han"
+output:
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+## Jaehwan Han Project.
+
+# Part 1, First problem.
+# Question C
+width=c(22.5,23.5,24.5,25.5,26.5,27.5,28.5,30)
+freq=c(3,4,10,18,20,21,15,20)
+x1=rep(width,freq)
+freq2=c(5,11,13,15,9,5,4,1)
+x2=rep(width,freq2)
+x=c(x1,x2)
+
+d1=rep(1,length(x1))
+d2=rep(0,length(x2))
+d=c(d1,d2)
+
+fit.glm <- glm(d~x, family=binomial(logit))
+summary(fit.glm)
+
+```
+
+```{r cars}
+library(broom)
+model.data <- augment(fit.glm) 
+model.data
+
+#Standarized Pearson residuals
+std_residual=model.data$.std.resid
+std_residual
+#Predicted Probabilities
+predict <- predict(fit.glm, type = "response")
+predict
+
+#Standarized person residuals vs predicted probability
+plot(predict,std_residual)
+#Standarized person residuals vs index of covariate pattern
+plot(d,std_residual)
+```
+
+```{r pressure, echo=FALSE}
+## ROC curve (I just want to see ROC value of this model which is not required.)
+library(ROCR)
+pr <- prediction(predict, d)
+prf <- performance(pr, measure = "tpr", x.measure = "fpr")
+plot(prf)
+auc <- performance(pr, measure = "auc")
+auc <- auc@y.values[[1]]
+auc #0.7460
+```
+
+```{r}
+# Question D
+#Saturated model
+a <- factor(1:length(d)) 
+fit <- glm(d~a,family=binomial("logit"), maxit=100)
+summary(fit)
+
+#Log likelihood of the saturated model
+logLik(fit)
+```
+
+```{r}
+#### Part I, Probelm 2
+
+## Question A
+# #Device(Present/Absent)->x,Years->x1,Number of accidents->y
+x=c(0,0,0,0,0,0,0,0,1,1,1,1,1,1)
+x1=c(8,8,7,7,8,7,8,7,2,3,2,2,2,3)
+y=c(13,6,30,25,10,15,7,13,2,4,0,6,1,2)
+df=data.frame(y,x,x1)
+
+#Fit of x as a covariate, a poisson loglinear model
+model=glm(y~1+x,family=poisson(link=log),data=df)
+summary(model)
+#Define where device is not there
+d1=which(x==0)
+#Define where device is there
+d2=which(x==1)
+
+#Dataset where device is not there
+d11=df[d1,]
+#Dataset where device is there
+d12=df[d2,]
+
+## Ratio of accidents where device is there and device is not there
+Ratio=sum(exp(predict(model,newdata=d12)))/sum(exp(predict(model,newdata=d11)))
+Ratio
+
+#Fit of x as a covariate,and log(years) as offset for a poisson loglinear model
+model1=glm(y~1+x+offset(log(x1)),family=poisson(link=log),data=df)
+summary(model1)
+Ratio1=sum(exp(predict(model1,newdata=d12)))/sum(exp(predict(model1,newdata=d11)))
+Ratio1
+
+#Pseudo R square
+R2<- 1-(model$deviance/model$null.deviance)
+R2_1<- 1-(model1$deviance/model1$null.deviance)
+R2
+R2_1
+```
+
+```{r}
+# Question B)
+#Wald Test for coefficient of the model where we have taken only the x as covariate
+summary(model)
+#Fitting of negative binomial using glm.nb function.
+require(MASS)
+model2=glm.nb(y~x, data = df)
+summary(model2)
+#Pseudo R square 
+R2_2<- 1-(model2$deviance/model2$null.deviance)
+R2_2
+#Check AIC of two models
+summary(model)
+summary(model2)
+```
+
+```{r}
+# Question C
+model3=glm(y~1+x,family=quasipoisson(link=log),data=df)
+summary(model3)
+#Value of scale parameter
+deviance(model)
+pr <- residuals(model,"pearson")
+sum(pr^2)
+phi <- sum(pr^2)/df.residual(model)
+round(c(phi,sqrt(phi)),4)
+```
+
+```{r}
+# Part II : Data Analysis Project
+library(foreign)
+library(caTools)
+getwd()
+
+#Load the data and check for missing values
+cirrhosisData = read.dta("PBC.dta")
+head(cirrhosisData)
+sum(is.na(cirrhosisData))
+summary(cirrhosisData)
+
+#Create training and validaiton set (Used to provide an unbiased evaluation of model fit)
+# (Data set is used to minimize overfitting)
+set.seed(4)
+split = sample.split(cirrhosisData$mort3yr, SplitRatio = 0.7)
+dt = subset(cirrhosisData,split == TRUE)
+dv = subset(cirrhosisData, split == FALSE)
+
+#train basic model
+model = glm(mort3yr~., data = dt, family = binomial)
+nothing = glm(mort3yr~1, data = dt, family = binomial)
+summary(model) 
+```
+
+```{r}
+#Implement forward stepwise procedure
+forward = step(nothing, scope = list(lower=formula(nothing),upper=formula(model)), direction = c("forward"))
+summary(forward) ## Using 0.05 significance level, bili, hstage, edma and age is selected.
+plot(forward)
+```
+
+```{r}
+# Check if albumin is significant by adding albumin variable
+m1<- glm(formula = mort3yr ~ bili + hstage + age + edema + albumin, 
+    family = binomial, data = dt)
+m2<- glm(formula = mort3yr ~ bili + hstage + age + edema, 
+    family = binomial, data = dt)
+summary(m1)
+summary(m2)
+## Compare AIC level of M1, M2, you could see M2 AIC level is lower than M1. (Without Albumin is better)
+library(rsq)
+rsq(m1, adj=TRUE)
+rsq(m2, adj=TRUE)
+## Without albumin adj R squared model is greater than the model with albumin model.
+## Check AIC, R Squared value between two model with albuim and without albumin. 
+## albumin variable should not be included.
+```
+
+```{r}
+# Check if sex is significant by adding sex variable
+m3<- glm(formula = mort3yr ~ bili + hstage + age + edema + sex, 
+    family = binomial, data = dt)
+m4<- glm(formula = mort3yr ~ bili + hstage + age + edema, 
+    family = binomial, data = dt)
+summary(m3)
+summary(m4)
+## Compare AIC level of M3, M4, you could see M4 AIC level is lower than M3.
+anova(m3,m4, test="Chisq")
+## Using Anova test is also good way to decide variable selection. P-value is greater than 0.05, Fail to reject
+## Null hypothesis. We can conclude that Sex varialbe is not signficant. It should be removed from model.
+```
+
+
+```{r}
+#Variable Categorisation (Continous variable Age, bili)
+age <- as.factor(cut(dt$age, c(quantile(dt$age)[1] - 1,quantile(dt$age)[2],quantile(dt$age)[3],quantile(dt$age)[4],quantile(dt$age)[5] + 1)))
+bili <- as.factor(cut(dt$bili, c(quantile(dt$bili)[1] - 1,quantile(dt$bili)[2],quantile(dt$bili)[3],quantile(dt$bili)[4],quantile(dt$bili)[5] + 1)))
+dt1 = dt
+dt1$age = age
+dt1$bili = bili
+
+age <- as.factor(cut(dv$age, c(quantile(dt$age)[1] - 1,quantile(dt$age)[2],quantile(dt$age)[3],quantile(dt$age)[4],quantile(dt$age)[5] + 1)))
+bili <- as.factor(cut(dv$bili, c(quantile(dt$bili)[1] - 1,quantile(dt$bili)[2],quantile(dt$bili)[3],quantile(dt$bili)[4],quantile(dt$bili)[5] + 1)))
+dv1 = dv
+dv1$age = age
+dv1$bili = bili
+```
+
+```{r}
+#Create New Age Model
+levels(dt1$age)
+ageModel1 = glm(mort3yr~bili+albumin+hstage, data = dt1[age=="(43,51.3]",], family = binomial)
+ageModel2 = glm(mort3yr~bili+albumin+hstage, data = dt1[age=="(51.3,58.9]",], family = binomial)
+ageModel3 = glm(mort3yr~bili+albumin+hstage, data = dt1[age=="(58.9,79.4]",], family = binomial)
+summary(ageModel1)
+summary(ageModel2)
+summary(ageModel3)
+plot(ageModel1,2)
+plot(ageModel2,2)
+plot(ageModel3,2)
+#Create new bili models
+levels(dt1$bili)
+biliModel1 = glm(mort3yr~age+albumin+hstage, data = dt1[bili=="(0.8,1.4]" ,], family = binomial)
+biliModel2 = glm(mort3yr~age+albumin+hstage, data = dt1[bili=="(1.4,3.5]" ,], family = binomial)
+biliModel3 = glm(mort3yr~age+albumin+hstage, data = dt1[bili=="(3.5,26.5]" ,], family = binomial)
+summary(biliModel1)
+summary(biliModel2)
+summary(biliModel3)
+plot(biliModel1,2)
+plot(biliModel2,2)
+plot(biliModel3,2)
+
+# Interaction 
+Inter = glm(mort3yr ~ bili*age*edema*hstage, data=dt1, family = "binomial")
+summary(Inter) 
+```
+
+```{r}
+#Hoslem Test
+library(ResourceSelection)
+h1 = hoslem.test(model$y,fitted(model), g=10)
+h1 ## Greater than 0.05 Fail to reject Ho, there is no evidence of poor fit.
+```
+
+```{r}
+#AUC
+prob=predict(forward,type=c("response"))
+dt$prob=prob
+library(pROC)
+g <- roc(mort3yr ~ prob, data = dt)
+g
+plot(g)  
+summary(forward) ## FINAL MODEL which include bili, hstage, edema, age variable.
+
+```
+

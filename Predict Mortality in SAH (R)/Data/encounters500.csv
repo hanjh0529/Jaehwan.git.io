@@ -1,0 +1,501 @@
+NEW_ENCOUNTER_ID,AGE_IN_YEARS,First_VASPRESOR,RACE,GENDER,MARITAL_STATUS
+1,38,phenylephrine,White,Male,Married
+2,35,dopamine,White,Male,Single
+3,44,dopamine,African American,Male,Single
+4,38,norepinephrine,White,Male,Unknown
+5,44,dopamine,African American,Female,Single
+6,83,phenylephrine,White,Male,Widowed
+7,36,dopamine,White,Female,Unknown
+8,57,phenylephrine,White,Female,Married
+9,47,phenylephrine,African American,Female,Married
+10,76,norepinephrine,Other,Female,Unknown
+11,55,phenylephrine,Other,Male,Unknown
+12,46,norepinephrine,White,Male,Single
+13,66,phenylephrine,White,Female,Divorced
+14,75,phenylephrine,Other,Female,Widowed
+15,57,phenylephrine,White,Female,Married
+16,43,phenylephrine,White,Female,Married
+17,64,phenylephrine,African American,Male,Single
+18,31,phenylephrine,White,Female,Single
+19,69,phenylephrine,White,Male,Married
+20,53,phenylephrine,White,Female,Single
+21,28,phenylephrine,White,Male,Unknown
+22,53,phenylephrine,White,Female,Single
+23,59,phenylephrine,White,Male,Married
+24,69,phenylephrine,African American,Male,Single
+25,76,phenylephrine,Other,Female,Married
+26,49,dopamine,Other,Female,Unknown
+27,73,phenylephrine,White,Male,Married
+28,40,phenylephrine,White,Male,Single
+29,22,phenylephrine,White,Female,Married
+30,61,phenylephrine,Other,Female,Single
+31,21,phenylephrine,White,Female,Married
+32,66,phenylephrine,White,Female,Divorced
+33,67,phenylephrine,White,Female,Single
+34,39,norepinephrine,White,Male,Divorced
+35,81,phenylephrine,White,Female,Widowed
+36,70,phenylephrine,White,Female,Married
+37,45,norepinephrine,White,Male,Single
+38,21,dopamine,White,Male,Single
+39,23,phenylephrine,African American,Male,Single
+40,40,phenylephrine,White,Male,Unknown
+41,53,phenylephrine,African American,Male,Married
+42,59,phenylephrine,African American,Female,Single
+43,85,phenylephrine,White,Female,Unknown
+44,54,phenylephrine,White,Female,Unknown
+45,44,phenylephrine,White,Female,Unknown
+46,72,dopamine,White,Female,Widowed
+47,69,phenylephrine,White,Male,Married
+48,69,phenylephrine,White,Male,Married
+49,72,phenylephrine,Other,Male,Unknown
+50,60,phenylephrine,White,Female,Single
+51,24,phenylephrine,White,Male,Single
+52,22,dopamine,White,Female,Married
+53,51,dopamine,White,Female,Married
+54,54,dopamine,Other,Female,Unknown
+55,31,phenylephrine,White,Female,Single
+56,31,phenylephrine,White,Male,Unknown
+57,46,norepinephrine,White,Male,Single
+58,44,norepinephrine,Other,Female,Unknown
+59,41,dopamine,White,Male,Single
+60,59,norepinephrine,White,Male,Unknown
+61,40,phenylephrine,African American,Male,Single
+62,19,phenylephrine,White,Male,Single
+63,36,phenylephrine,White,Female,Married
+64,74,dopamine,White,Male,Married
+65,82,dopamine,African American,Female,Divorced
+66,65,phenylephrine,Other,Male,Unknown
+67,78,norepinephrine,White,Male,Married
+68,51,phenylephrine,White,Male,Married
+69,65,norepinephrine,White,Male,Unknown
+70,58,dopamine,White,Female,Unknown
+71,50,dopamine,White,Male,Widowed
+72,66,norepinephrine,White,Male,Unknown
+73,52,dopamine,White,Female,Married
+74,53,dopamine,White,Male,Married
+75,22,norepinephrine,White,Male,Married
+76,67,dopamine,African American,Male,Unknown
+77,68,dopamine,White,Male,Married
+78,38,norepinephrine,Other,Male,Married
+79,21,norepinephrine,White,Female,Single
+80,18,dopamine,White,Female,Unknown
+81,35,dopamine,White,Male,Single
+82,61,dopamine,White,Male,Divorced
+83,47,norepinephrine,White,Male,Unknown
+84,27,norepinephrine,Other,Male,Single
+85,46,phenylephrine,White,Male,Divorced
+86,80,phenylephrine,White,Male,Married
+87,60,norepinephrine,White,Male,Unknown
+88,50,norepinephrine,African American,Female,Widowed
+89,59,phenylephrine,White,Male,Married
+90,45,norepinephrine,Other,Male,Single
+91,28,phenylephrine,White,Male,Single
+92,82,dopamine,White,Male,Married
+93,83,dopamine,White,Male,Unknown
+94,45,dopamine,White,Female,Unknown
+95,66,dopamine,African American,Male,Single
+96,61,phenylephrine,White,Female,Married
+97,33,dopamine,Other,Female,Married
+98,80,phenylephrine,White,Male,Married
+99,90,phenylephrine,White,Female,Single
+100,54,phenylephrine,White,Female,Married
+101,34,phenylephrine,White,Female,Unknown
+102,56,dopamine,White,Female,Married
+103,77,phenylephrine,White,Female,Widowed
+104,63,phenylephrine,White,Female,Married
+105,73,phenylephrine,White,Female,Married
+106,65,phenylephrine,White,Male,Widowed
+107,75,dopamine,White,Male,Married
+108,33,phenylephrine,White,Female,Married
+109,76,norepinephrine,White,Male,Married
+110,46,phenylephrine,Other,Female,Unknown
+111,58,phenylephrine,White,Female,Divorced
+112,51,phenylephrine,African American,Female,Single
+113,25,norepinephrine,African American,Female,Single
+114,55,phenylephrine,White,Female,Divorced
+115,41,phenylephrine,White,Male,Married
+116,56,phenylephrine,White,Female,Unknown
+117,45,phenylephrine,African American,Female,Divorced
+118,58,dopamine,African American,Male,Married
+119,43,phenylephrine,White,Female,Married
+120,88,dopamine,Other,Female,Married
+121,52,phenylephrine,White,Female,Single
+122,55,phenylephrine,White,Female,Single
+123,59,phenylephrine,White,Female,Married
+124,42,phenylephrine,African American,Female,Single
+125,54,phenylephrine,African American,Male,Married
+126,68,norepinephrine,White,Male,Married
+127,46,phenylephrine,White,Female,Single
+128,65,phenylephrine,White,Female,Married
+129,54,phenylephrine,White,Female,Married
+130,55,dopamine,White,Female,Divorced
+131,64,phenylephrine,Other,Male,Unknown
+132,49,phenylephrine,Other,Male,Married
+133,44,phenylephrine,White,Female,Married
+134,48,phenylephrine,Other,Female,Unknown
+135,58,dopamine,White,Female,Widowed
+136,60,phenylephrine,White,Female,Married
+137,72,phenylephrine,White,Female,Widowed
+138,82,phenylephrine,White,Female,Unknown
+139,64,phenylephrine,White,Male,Married
+140,70,dopamine,White,Female,Married
+141,77,norepinephrine,White,Male,Married
+142,52,phenylephrine,White,Female,Married
+143,51,phenylephrine,Other,Male,Married
+144,54,norepinephrine,White,Female,Married
+145,60,dopamine,Other,Male,Married
+146,90,dopamine,White,Female,Widowed
+147,69,norepinephrine,Other,Female,Single
+148,59,phenylephrine,White,Female,Single
+149,50,norepinephrine,African American,Male,Single
+150,28,phenylephrine,Other,Female,Single
+151,46,norepinephrine,African American,Male,Married
+152,19,phenylephrine,White,Male,Single
+153,65,phenylephrine,White,Male,Married
+154,67,phenylephrine,White,Male,Single
+155,25,norepinephrine,White,Female,Single
+156,20,norepinephrine,White,Male,Unknown
+157,56,norepinephrine,White,Female,Married
+158,43,phenylephrine,White,Male,Single
+159,82,norepinephrine,White,Male,Married
+160,48,phenylephrine,African American,Male,Single
+161,86,phenylephrine,African American,Female,Widowed
+162,31,phenylephrine,White,Female,Married
+163,44,norepinephrine,Other,Female,Married
+164,79,phenylephrine,White,Male,Married
+165,52,norepinephrine,African American,Male,Married
+166,34,phenylephrine,White,Female,Single
+167,60,norepinephrine,African American,Male,Married
+168,31,norepinephrine,White,Male,Single
+169,60,norepinephrine,White,Male,Married
+170,69,phenylephrine,African American,Female,Married
+171,53,phenylephrine,White,Male,Single
+172,70,norepinephrine,African American,Male,Married
+173,18,norepinephrine,African American,Female,Single
+174,45,norepinephrine,White,Male,Unknown
+175,47,dopamine,White,Male,Married
+176,56,norepinephrine,White,Female,Divorced
+177,75,norepinephrine,White,Male,Married
+178,48,phenylephrine,White,Female,Married
+179,48,norepinephrine,Other,Female,Married
+180,77,norepinephrine,White,Male,Married
+181,59,phenylephrine,White,Female,Single
+182,27,phenylephrine,African American,Male,Single
+183,24,phenylephrine,African American,Female,Single
+184,59,phenylephrine,White,Female,Married
+185,71,norepinephrine,African American,Female,Married
+186,61,phenylephrine,White,Female,Married
+187,23,norepinephrine,White,Male,Single
+188,51,phenylephrine,African American,Male,Single
+189,59,phenylephrine,African American,Female,Single
+190,18,phenylephrine,White,Female,Single
+191,32,phenylephrine,African American,Female,Single
+192,58,norepinephrine,African American,Female,Divorced
+193,51,norepinephrine,White,Male,Single
+194,58,norepinephrine,White,Male,Married
+195,63,phenylephrine,African American,Female,Single
+196,64,phenylephrine,White,Male,Married
+197,51,norepinephrine,African American,Male,Married
+198,60,phenylephrine,Other,Female,Married
+199,42,phenylephrine,White,Female,Married
+200,32,phenylephrine,African American,Female,Single
+201,43,norepinephrine,Other,Male,Single
+202,63,norepinephrine,White,Male,Single
+203,21,norepinephrine,White,Male,Single
+204,51,norepinephrine,African American,Female,Single
+205,47,phenylephrine,Other,Female,Unknown
+206,60,dopamine,White,Male,Divorced
+207,65,dopamine,White,Female,Widowed
+208,49,phenylephrine,African American,Female,Divorced
+209,62,dopamine,African American,Male,Married
+210,51,dopamine,African American,Female,Married
+211,53,dopamine,African American,Male,Married
+212,51,dopamine,African American,Female,Married
+213,52,norepinephrine,White,Female,Single
+214,78,norepinephrine,White,Male,Married
+215,81,phenylephrine,White,Male,Married
+216,39,norepinephrine,White,Male,Divorced
+217,45,phenylephrine,White,Male,Married
+218,61,phenylephrine,White,Female,Married
+219,68,phenylephrine,White,Female,Married
+220,88,norepinephrine,White,Male,Married
+221,90,dopamine,White,Female,Single
+222,57,norepinephrine,White,Male,Married
+223,47,dopamine,White,Female,Married
+224,90,norepinephrine,White,Male,Married
+225,74,norepinephrine,White,Female,Widowed
+226,63,norepinephrine,White,Male,Single
+227,71,dopamine,White,Male,Unknown
+228,62,dopamine,Other,Male,Unknown
+229,85,dopamine,African American,Female,Widowed
+230,63,dopamine,White,Female,Married
+231,37,phenylephrine,African American,Male,Married
+232,29,phenylephrine,White,Female,Single
+233,73,phenylephrine,White,Female,Married
+234,69,phenylephrine,White,Female,Married
+235,60,phenylephrine,White,Female,Married
+236,51,phenylephrine,African American,Female,Single
+237,50,phenylephrine,African American,Female,Single
+238,88,dopamine,White,Male,Married
+239,66,dopamine,African American,Female,Widowed
+240,18,dopamine,White,Male,Single
+241,48,phenylephrine,White,Female,Single
+242,50,norepinephrine,White,Male,Single
+243,49,phenylephrine,White,Female,Married
+244,74,dopamine,African American,Female,Widowed
+245,66,phenylephrine,African American,Male,Single
+246,62,norepinephrine,African American,Female,Single
+247,23,phenylephrine,White,Male,Single
+248,43,phenylephrine,White,Female,Divorced
+249,38,dopamine,White,Female,Single
+250,78,dopamine,African American,Female,Single
+251,54,phenylephrine,White,Male,Single
+252,52,phenylephrine,White,Male,Married
+253,48,dopamine,African American,Male,Married
+254,55,phenylephrine,African American,Male,Married
+255,61,phenylephrine,White,Female,Married
+256,22,phenylephrine,White,Female,Single
+257,52,norepinephrine,African American,Male,Single
+258,62,phenylephrine,White,Female,Married
+259,59,phenylephrine,African American,Female,Married
+260,47,phenylephrine,African American,Female,Single
+261,19,norepinephrine,White,Male,Single
+262,50,dopamine,African American,Female,Divorced
+263,88,phenylephrine,African American,Female,Widowed
+264,42,phenylephrine,White,Male,Married
+265,62,phenylephrine,White,Female,Married
+266,41,phenylephrine,White,Female,Married
+267,70,phenylephrine,African American,Male,Single
+268,49,phenylephrine,White,Male,Married
+269,70,norepinephrine,Other,Male,Single
+270,34,phenylephrine,White,Female,Married
+271,68,norepinephrine,White,Female,Married
+272,47,norepinephrine,White,Female,Divorced
+273,70,norepinephrine,White,Female,Married
+274,62,phenylephrine,White,Female,Married
+275,63,phenylephrine,White,Male,Married
+276,79,phenylephrine,White,Male,Married
+277,66,phenylephrine,White,Female,Married
+278,74,phenylephrine,White,Male,Married
+279,51,norepinephrine,White,Male,Married
+280,58,phenylephrine,White,Female,Married
+281,49,phenylephrine,White,Female,Married
+282,55,phenylephrine,White,Male,Married
+283,45,phenylephrine,White,Male,Divorced
+284,56,dopamine,White,Male,Married
+285,47,norepinephrine,White,Female,Married
+286,54,phenylephrine,White,Female,Married
+287,73,phenylephrine,White,Female,Married
+288,65,phenylephrine,African American,Female,Single
+289,26,phenylephrine,White,Female,Married
+290,70,phenylephrine,White,Female,Married
+291,60,phenylephrine,White,Female,Single
+292,43,phenylephrine,White,Female,Married
+293,57,phenylephrine,African American,Female,Single
+294,67,phenylephrine,White,Female,Single
+295,48,dopamine,African American,Male,Single
+296,46,norepinephrine,Other,Male,Married
+297,42,dopamine,African American,Male,Married
+298,73,dopamine,Other,Female,Married
+299,63,norepinephrine,White,Male,Married
+300,73,norepinephrine,White,Male,Married
+301,21,dopamine,African American,Male,Single
+302,57,dopamine,Other,Male,Married
+303,65,phenylephrine,Other,Female,Married
+304,60,phenylephrine,White,Female,Single
+305,73,phenylephrine,White,Male,Divorced
+306,59,phenylephrine,White,Male,Married
+307,38,phenylephrine,White,Male,Married
+308,65,phenylephrine,White,Male,Divorced
+309,54,phenylephrine,White,Female,Widowed
+310,69,phenylephrine,White,Female,Single
+311,59,phenylephrine,White,Male,Divorced
+312,51,norepinephrine,White,Male,Single
+313,17,dopamine,White,Female,Single
+314,41,norepinephrine,White,Female,Single
+315,54,phenylephrine,White,Male,Divorced
+316,30,phenylephrine,White,Female,Single
+317,62,phenylephrine,White,Female,Married
+318,84,norepinephrine,White,Female,Widowed
+319,61,phenylephrine,White,Female,Divorced
+320,71,norepinephrine,White,Male,Unknown
+321,75,norepinephrine,White,Female,Unknown
+322,36,dopamine,White,Female,Unknown
+323,67,norepinephrine,African American,Female,Single
+324,23,dopamine,White,Male,Single
+325,50,phenylephrine,White,Male,Married
+326,51,dopamine,White,Female,Divorced
+327,49,norepinephrine,White,Male,Divorced
+328,55,phenylephrine,White,Female,Unknown
+329,39,phenylephrine,Other,Male,Unknown
+330,54,phenylephrine,White,Male,Unknown
+331,47,phenylephrine,White,Female,Unknown
+332,57,phenylephrine,White,Female,Unknown
+333,79,phenylephrine,White,Female,Unknown
+334,62,phenylephrine,White,Female,Unknown
+335,47,phenylephrine,White,Male,Unknown
+336,61,phenylephrine,White,Female,Unknown
+337,45,phenylephrine,White,Male,Unknown
+338,56,norepinephrine,White,Female,Divorced
+339,21,phenylephrine,White,Male,Single
+340,48,norepinephrine,Other,Female,Unknown
+341,38,phenylephrine,African American,Female,Single
+342,60,phenylephrine,White,Female,Married
+343,57,phenylephrine,White,Male,Divorced
+344,19,phenylephrine,White,Male,Single
+345,59,phenylephrine,White,Male,Single
+346,82,dopamine,White,Male,Married
+347,17,phenylephrine,White,Male,Unknown
+348,41,dopamine,White,Male,Single
+349,52,dopamine,White,Female,Married
+350,43,norepinephrine,African American,Male,Single
+351,72,dopamine,White,Male,Married
+352,64,norepinephrine,White,Female,Divorced
+353,54,norepinephrine,Other,Male,Divorced
+354,21,dopamine,White,Male,Single
+355,40,norepinephrine,White,Male,Married
+356,45,dopamine,White,Male,Married
+357,50,norepinephrine,White,Male,Single
+358,72,dopamine,White,Male,Married
+359,56,norepinephrine,White,Female,Married
+360,30,dopamine,White,Female,Single
+361,53,norepinephrine,White,Female,Married
+362,54,norepinephrine,African American,Female,Divorced
+363,55,norepinephrine,White,Female,Married
+364,68,norepinephrine,White,Female,Married
+365,61,norepinephrine,White,Male,Married
+366,46,norepinephrine,African American,Female,Single
+367,80,norepinephrine,White,Male,Widowed
+368,26,norepinephrine,White,Male,Married
+369,61,norepinephrine,White,Female,Married
+370,78,phenylephrine,White,Male,Married
+371,57,norepinephrine,White,Female,Married
+372,40,dopamine,White,Male,Divorced
+373,24,phenylephrine,African American,Female,Single
+374,65,norepinephrine,White,Male,Married
+375,46,phenylephrine,White,Male,Single
+376,56,norepinephrine,White,Female,Married
+377,70,phenylephrine,White,Female,Married
+378,54,norepinephrine,Other,Male,Married
+379,58,norepinephrine,White,Female,Married
+380,47,norepinephrine,African American,Female,Married
+381,19,dopamine,White,Male,Single
+382,48,dopamine,White,Female,Single
+383,90,dopamine,White,Female,Widowed
+384,53,norepinephrine,Other,Male,Unknown
+385,29,phenylephrine,White,Male,Married
+386,43,phenylephrine,White,Female,Married
+387,43,norepinephrine,White,Female,Divorced
+388,56,dopamine,White,Female,Married
+389,48,norepinephrine,White,Female,Married
+390,30,norepinephrine,White,Female,Married
+391,18,norepinephrine,White,Male,Single
+392,50,dopamine,African American,Male,Divorced
+393,64,norepinephrine,White,Female,Married
+394,62,norepinephrine,African American,Female,Divorced
+395,71,phenylephrine,White,Female,Married
+396,65,norepinephrine,White,Female,Widowed
+397,54,dopamine,White,Female,Married
+398,72,dopamine,White,Female,Married
+399,27,norepinephrine,White,Female,Unknown
+400,56,dopamine,White,Male,Divorced
+401,60,norepinephrine,White,Female,Widowed
+402,49,phenylephrine,White,Female,Divorced
+403,49,norepinephrine,African American,Female,Single
+404,64,phenylephrine,White,Female,Married
+405,46,dopamine,White,Female,Married
+406,30,norepinephrine,White,Male,Single
+407,77,dopamine,White,Female,Married
+408,48,norepinephrine,White,Female,Married
+409,54,phenylephrine,White,Male,Married
+410,34,phenylephrine,White,Female,Single
+411,60,dopamine,White,Female,Divorced
+412,40,norepinephrine,White,Male,Married
+413,20,dopamine,White,Male,Single
+414,46,phenylephrine,White,Female,Married
+415,42,norepinephrine,White,Female,Single
+416,63,dopamine,White,Female,Married
+417,29,dopamine,White,Female,Married
+418,69,dopamine,White,Male,Married
+419,58,phenylephrine,White,Female,Married
+420,49,norepinephrine,White,Female,Divorced
+421,79,norepinephrine,White,Male,Married
+422,29,norepinephrine,White,Female,Married
+423,90,dopamine,White,Female,Widowed
+424,57,phenylephrine,African American,Female,Single
+425,40,phenylephrine,White,Female,Married
+426,24,phenylephrine,White,Male,Divorced
+427,55,phenylephrine,White,Male,Single
+428,90,dopamine,Other,Male,Single
+429,26,norepinephrine,African American,Male,Single
+430,33,phenylephrine,Other,Female,Married
+431,62,phenylephrine,White,Female,Married
+432,59,norepinephrine,White,Female,Married
+433,46,phenylephrine,White,Female,Married
+434,29,norepinephrine,White,Male,Single
+435,77,phenylephrine,White,Female,Single
+436,62,phenylephrine,Other,Male,Married
+437,46,phenylephrine,White,Male,Unknown
+438,62,norepinephrine,White,Female,Married
+439,78,phenylephrine,White,Male,Married
+440,24,phenylephrine,Other,Male,Unknown
+441,59,phenylephrine,White,Female,Married
+442,54,phenylephrine,White,Female,Single
+443,50,norepinephrine,Other,Male,Unknown
+444,39,norepinephrine,Other,Male,Single
+445,52,dopamine,Other,Female,Unknown
+446,30,phenylephrine,White,Male,Married
+447,24,phenylephrine,Other,Male,Single
+448,50,phenylephrine,White,Male,Single
+449,69,norepinephrine,White,Male,Widowed
+450,62,phenylephrine,White,Male,Married
+451,73,phenylephrine,White,Female,Married
+452,27,norepinephrine,Other,Female,Unknown
+453,75,phenylephrine,White,Female,Married
+454,79,phenylephrine,White,Male,Married
+455,73,norepinephrine,White,Male,Married
+456,44,phenylephrine,White,Female,Divorced
+457,39,phenylephrine,African American,Male,Single
+458,21,norepinephrine,Other,Female,Single
+459,21,phenylephrine,Other,Female,Single
+460,56,phenylephrine,Other,Male,Single
+461,84,phenylephrine,White,Male,Unknown
+462,26,phenylephrine,Other,Male,Unknown
+463,21,phenylephrine,African American,Male,Unknown
+464,90,norepinephrine,White,Male,Divorced
+465,50,phenylephrine,White,Female,Single
+466,83,phenylephrine,White,Male,Married
+467,49,phenylephrine,White,Female,Divorced
+468,60,norepinephrine,White,Male,Married
+469,78,phenylephrine,Other,Female,Married
+470,66,phenylephrine,White,Female,Married
+471,65,norepinephrine,White,Male,Married
+472,32,phenylephrine,White,Female,Single
+473,89,phenylephrine,White,Female,Widowed
+474,35,dopamine,White,Male,Single
+475,26,phenylephrine,Other,Female,Single
+476,69,phenylephrine,Other,Male,Unknown
+477,56,norepinephrine,White,Male,Married
+478,48,phenylephrine,Other,Male,Single
+479,90,dopamine,White,Female,Single
+480,51,dopamine,White,Female,Unknown
+481,70,norepinephrine,Other,Male,Married
+482,75,phenylephrine,White,Female,Married
+483,57,phenylephrine,White,Male,Single
+484,57,norepinephrine,African American,Male,Unknown
+485,46,phenylephrine,White,Female,Single
+486,64,phenylephrine,Other,Male,Single
+487,43,phenylephrine,White,Male,Single
+488,66,norepinephrine,White,Male,Married
+489,88,phenylephrine,White,Female,Married
+490,55,phenylephrine,White,Female,Married
+491,64,norepinephrine,White,Female,Widowed
+492,70,norepinephrine,African American,Female,Married
+493,76,norepinephrine,African American,Female,Widowed
+494,90,norepinephrine,White,Female,Single
+495,81,norepinephrine,White,Female,Single
+496,69,norepinephrine,African American,Female,Married
+497,32,dopamine,White,Female,Married
+498,68,phenylephrine,African American,Male,Married
+499,41,phenylephrine,White,Male,Divorced
+500,52,norepinephrine,White,Male,Married
